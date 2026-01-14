@@ -1,0 +1,16 @@
+filename = 'tooltipoverhaul-neoforge-1.21.1-1.4.0.jar'
+name = 'Tooltip Overhaul'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b5815913881d8174a45e6c20b65ddb251dd4ed51bca0707bad47063841e8cf66a2f79c3c5ac50b91fc88163b447f6230def437ef945bdcde0546798be791f434'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vRFcG5n6/versions/La5rVqcu/tooltipoverhaul-neoforge-1.21.1-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'vRFcG5n6'
+version = 'La5rVqcu'

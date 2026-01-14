@@ -1,0 +1,15 @@
+filename = 'delivery_director-1.0.1.jar'
+name = 'Create: Delivery Director'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b402bc1c2e4aa9f9928043a7b42819852af34daf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6562789
+project-id = 1271816

@@ -1,0 +1,16 @@
+filename = 'DungeonCrawl-NeoForge-1.21-2.3.15.jar'
+name = 'Dungeon Crawl'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '35b87ddba5558d3d0c786045b70681034d9c59218c179da080dcff49c039c4cf1e49ae47f0502368065f74905b4231ea3a8f4ef7ee8d43cdc6cdc00b3408abdb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/q0rRg4lH/versions/RBozVFRJ/DungeonCrawl-NeoForge-1.21-2.3.15.jar'
+
+[update.modrinth]
+mod-id = 'q0rRg4lH'
+version = 'RBozVFRJ'

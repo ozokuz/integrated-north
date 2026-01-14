@@ -1,0 +1,16 @@
+filename = 'irons_spells_dynamic_skilltree_1.1.0.jar'
+name = "Iron's Spells 'n Spellbooks Dynamic Skill Trees"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.20.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4acbb13a3484b4095b0bcba01e1b8add1974a2db1733e13f7f3c8048c8967ff5f351ccc5cdf5e19d434bd093ff81c600ca5acf8d6b3192bf555c33ef1eab9005'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cdEXZLO4/versions/j2XQWLuk/irons_spells_dynamic_skilltree_1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'cdEXZLO4'
+version = 'j2XQWLuk'

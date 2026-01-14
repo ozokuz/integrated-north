@@ -1,0 +1,16 @@
+filename = 'MerchantMarkers-1.21.1-neoforge-1.3.6.jar'
+name = 'Merchant Markers'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '03d9c243c2bc5ca5bd635ae75aef847facdf347fae1ea8606fffa4c6bce6db45c47a6b6ff0033a20e09071e5c7b269120701a4497a502d6c867e5e9f4abe3402'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AGhiJWsU/versions/aH2sSwUn/MerchantMarkers-1.21.1-neoforge-1.3.6.jar'
+
+[update.modrinth]
+mod-id = 'AGhiJWsU'
+version = 'aH2sSwUn'

@@ -1,0 +1,15 @@
+filename = 'createdeco-2.1.2.jar'
+name = 'Create Deco'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cff4f94238d15db929bf0db48f006da438d345b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7314692
+project-id = 509285

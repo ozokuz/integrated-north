@@ -1,0 +1,16 @@
+filename = 'UsefulSlime-neoforge-1.21-1.12.1.jar'
+name = 'Useful Slime'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '93fc9fbf66734280fbfe2e27fbcbefa0ede6a5da433c17705f7e8ab3c5b7ba977b3f15a3a81e2762e125191c53e097b3edc4875ad8dfb60ac44a5f67c8a31b59'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CzM6C1W0/versions/iTRbN0Dn/UsefulSlime-neoforge-1.21-1.12.1.jar'
+
+[update.modrinth]
+mod-id = 'CzM6C1W0'
+version = 'iTRbN0Dn'

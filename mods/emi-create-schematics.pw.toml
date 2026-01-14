@@ -1,0 +1,15 @@
+filename = 'emi_create_schematics-1.0.3.jar'
+name = 'EMI: Create Schematics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5df932609b494ef16222250fb50fbbda19b721f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7260884
+project-id = 940673

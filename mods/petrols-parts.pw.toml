@@ -1,0 +1,15 @@
+filename = 'petrolsparts-1.21.1-1.2.7.jar'
+name = "Petrol's Parts for Create"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '312c280731f961666b919a090f538f60e53e67a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7283891
+project-id = 1093607

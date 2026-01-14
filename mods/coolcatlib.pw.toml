@@ -1,0 +1,15 @@
+filename = 'coolcatlib-neoforge-1.21-2100.1.0.0.jar'
+name = 'CoolCatLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '608c5d12867b0bf2527b04e04ccafec6429842e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7175974
+project-id = 916525

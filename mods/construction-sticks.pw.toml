@@ -1,0 +1,16 @@
+filename = 'ConstructionSticks-1.21.1-1.2.3.jar'
+name = 'Construction Sticks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f91236bacf9a1cedc5e1865d0b72e2b6dcf457de82adc72f9f6b03d7619780f2e9c697a9e2ab555f9c573e623c127ee435f4ff4bbc1c89a9236b39fdbadbf0f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ooyjDLZt/versions/Fdq0y6WW/ConstructionSticks-1.21.1-1.2.3.jar'
+
+[update.modrinth]
+mod-id = 'ooyjDLZt'
+version = 'Fdq0y6WW'

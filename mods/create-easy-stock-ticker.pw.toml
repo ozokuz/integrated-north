@@ -1,0 +1,15 @@
+filename = 'create_ez_stock_ticker-1.0.4.jar'
+name = 'Create: Easy Stock Ticker'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ca229080faeba4430a75d3fe2fd327af83decc2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7287325
+project-id = 1340326

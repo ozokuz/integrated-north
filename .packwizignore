@@ -1,0 +1,8 @@
+.python-version
+.side_cache.json
+.venv/
+README.md
+TODO.md
+update.py
+pyproject.toml
+uv.lock

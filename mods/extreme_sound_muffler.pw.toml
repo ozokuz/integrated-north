@@ -1,0 +1,16 @@
+filename = 'ExtremeSoundMuffler-3.52_NeoForge-1.21.jar'
+name = 'Extreme Sound Muffler'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e7e058860fd286d295cfbb2931e6886c2d3f74d4a5733244e7f389ddc3b2e1a462c6e21e597771b102b9d9426941db5284b9ef2e37a5af319b59472e1aad63e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5IIKsxiL/versions/9d85n1uE/ExtremeSoundMuffler-3.52_NeoForge-1.21.jar'
+
+[update.modrinth]
+mod-id = '5IIKsxiL'
+version = '9d85n1uE'

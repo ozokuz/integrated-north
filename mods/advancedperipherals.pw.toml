@@ -1,0 +1,16 @@
+filename = 'AdvancedPeripherals-1.21.1-0.7.59b.jar'
+name = 'Advanced Peripherals'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e24379f36d24ff146ae810ac5a9f815eb9b345db08aa0882797c74b153c79c8eda41be195f235754e556ed20444006ae7ddd1c8dadb9fe1f2cc010e5192ffdf0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SOw6jD6x/versions/Oo1gJHz0/AdvancedPeripherals-1.21.1-0.7.59b.jar'
+
+[update.modrinth]
+mod-id = 'SOw6jD6x'
+version = 'Oo1gJHz0'

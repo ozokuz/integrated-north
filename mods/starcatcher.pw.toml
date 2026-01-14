@@ -1,0 +1,16 @@
+filename = 'starcatcher-2.1-NEOFORGE-1.21.1.jar'
+name = 'Starcatcher'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1518a43c1a38beb4db56e90219d3628ae611b8860ed8b394b3f81a530f3b313ae57b4559cff09ba739d7ca2b3540b33a3158af90f26423b6da3527809a8e995b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h2jXvxNR/versions/SXEOxs7V/starcatcher-2.1-NEOFORGE-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'h2jXvxNR'
+version = 'SXEOxs7V'

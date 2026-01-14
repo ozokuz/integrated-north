@@ -1,0 +1,15 @@
+filename = 'gtbcs_spell_lib-1.4.0-1.21.1.jar'
+name = "GTBC's SpellLib"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bd88af0f532928fdc09e52f1bca627d49fde2c84'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7385455
+project-id = 1194714

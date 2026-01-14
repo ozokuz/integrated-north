@@ -1,0 +1,15 @@
+filename = 'createvintageneoforged-1.21.1-1.2.2.jar'
+name = 'Create: Vintage NeoForged'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '01ca779f578f736d96510651389730cf9b5a9ca0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7410053
+project-id = 1240780

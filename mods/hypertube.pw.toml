@@ -1,0 +1,17 @@
+filename = 'create_hypertube-0.3.0-NEOFORGE.jar'
+name = 'Create: Hypertubes'
+side = "both"
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3.0'
+
+[download]
+hash = '9f7813bd53670eeef677d2af91b68d82a902872e3ac1e5e3576c984d9b1bb643a9e029347e8a62f972f560f68402f662c9f564b77dd0facb2e460fe715ffa444'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ATDdrG1y/versions/ft1NGwjJ/create_hypertube-0.3.0-NEOFORGE.jar'
+
+[update.modrinth]
+mod-id = 'ATDdrG1y'
+version = 'ft1NGwjJ'

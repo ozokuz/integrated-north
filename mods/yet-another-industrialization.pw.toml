@@ -1,0 +1,16 @@
+filename = 'yet_another_industrialization-1.2.1-1.21.1.jar'
+name = 'Yet Another Industrialization!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad56e8837a5a32a5f311642005215762d3ac917a06093edd175e37f46d1e36361f0907ed63721dc5e88c43f8b6091d6693964217abab3c7ba9ead8d3e7c13526'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jXqDKaST/versions/g7GrWhVi/yet_another_industrialization-1.2.1-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jXqDKaST'
+version = 'g7GrWhVi'

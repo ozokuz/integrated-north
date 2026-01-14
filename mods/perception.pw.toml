@@ -1,0 +1,16 @@
+filename = 'Perception-NEOFORGE-0.1.6+1.21.1.jar'
+name = 'Perception'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b814450b3179ee57928de50c89be7b0c0d8430173ac6526bea899ec1d6801bbd4b6f122ab94cfd89b28a5c71e433a5d07c4a65e7ce491bff423ed08ba090ab43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P8STLvzB/versions/eFzzv5vq/Perception-NEOFORGE-0.1.6%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'P8STLvzB'
+version = 'eFzzv5vq'

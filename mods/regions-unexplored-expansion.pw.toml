@@ -1,0 +1,16 @@
+filename = 'RUExpansion-1.0.1+1.21.1.jar'
+name = 'Regions Unexplored: Expansion'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RUExpansion-1.0.1+1.21.1.jar'
+
+[download]
+hash = '79f3a2e95fad9ecf44f801f47b3baae8d76e1cfa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6883463
+project-id = 1287739

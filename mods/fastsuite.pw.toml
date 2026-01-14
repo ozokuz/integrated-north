@@ -1,0 +1,15 @@
+filename = 'FastSuite-1.21.1-6.0.6.jar'
+name = 'Fast Suite'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '281117322556e6e1d46094a6e1a4cfa8af41df2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7428334
+project-id = 475117

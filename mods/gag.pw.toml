@@ -1,0 +1,16 @@
+filename = 'gag-neoforge-1.21.1-5.2.0.jar'
+name = 'Gadgets Against Grind'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0768f9034bf0d431b8576aefb2041557652197f4f56b6816463adedb72858cdbf746a4690e5036efe3b626de28929c5be8f1b2068247ca92458c1a9b0ba58476'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IeYLjzpn/versions/ND07gW3N/gag-neoforge-1.21.1-5.2.0.jar'
+
+[update.modrinth]
+mod-id = 'IeYLjzpn'
+version = 'ND07gW3N'
