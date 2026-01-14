@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bcc844931436be001fff5de18af3fab81a02fa7b0fe297ff3f8c735f0830ec6a"
+hash = "ab58a65cb01b0039549bfbd29dfe1a52e94f8e97c2e2df8b000c026b04e1828b"
 
 [[files]]
 file = "config/emi.css"
@@ -182,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "c3e0660c85e9c2ddc666c14b77d6b43334e75bc8dc800865bdbbd2c3f6bd95cf"
-metafile = true
-
-[[files]]
-file = "mods/alshanexs-familiars.pw.toml"
-hash = "85d46f611695571aeaf7583d6bebb4118761b6aef67e64b2b4cdbaa31fef6e49"
 metafile = true
 
 [[files]]
@@ -852,11 +847,6 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "ba8a51ec3d62622e683d0308a746c3425849dbd12401b8d7936f9604dc7304c5"
-metafile = true
-
-[[files]]
-file = "mods/familiarslib.pw.toml"
-hash = "2b9e67cb22e0f066ea8ef7c10828905be8f14550245aa5580e979f98c45a0869"
 metafile = true
 
 [[files]]
