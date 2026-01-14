@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2e16cb9379097f8f2f68690722ddf7cbff2d1a567c4ddce0ae3c7b56dd11e770"
+hash = "bcc844931436be001fff5de18af3fab81a02fa7b0fe297ff3f8c735f0830ec6a"
 
 [[files]]
 file = "config/emi.css"
@@ -1720,7 +1720,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars-reforged.pw.toml"
-hash = "6c8eac78c8a371a5403913ab2a00b4cd4aab19ebf6c1a7b7736ac15bc58c104e"
+hash = "ed53b7a03cf18e074c51462b86eb734a8e37106188831612bd65f44d144546e0"
 metafile = true
 
 [[files]]
@@ -1890,7 +1890,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "b45edbeb29f3f82b51ed3000077fe5ae892cfe3b0fdf4ffa9673754d0cba84b0"
+hash = "9bbf50b9ec54e7849f8076aa16133563eb254d79ea898d0f0ffebacb090b0d53"
 metafile = true
 
 [[files]]

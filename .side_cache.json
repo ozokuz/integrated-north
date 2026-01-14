@@ -292,7 +292,6 @@
   "spark.pw.toml": "both",
   "starbunclemania.pw.toml": "both",
   "starcatcher.pw.toml": "both",
-  "status-effect-bars-reforged.pw.toml": "both",
   "structure-layout-optimizer.pw.toml": "both",
   "stylish-effects.pw.toml": "client",
   "subtle-effects.pw.toml": "both",
@@ -325,7 +324,6 @@
   "variants-and-ventures.pw.toml": "both",
   "villages-and-pillages.pw.toml": "both",
   "vintage-animations.pw.toml": "client",
-  "wakes-reforged.pw.toml": "both",
   "wall-jump-txf.pw.toml": "both",
   "waystones.pw.toml": "both",
   "what-are-they-up-to.pw.toml": "both",
@@ -379,5 +377,7 @@
   "im-fast.pw.toml": "both",
   "almost-unified.pw.toml": "both",
   "lootjs.pw.toml": "both",
-  "colorwheel.pw.toml": "client"
+  "colorwheel.pw.toml": "client",
+  "status-effect-bars-reforged.pw.toml": "client",
+  "wakes-reforged.pw.toml": "client"
 }
