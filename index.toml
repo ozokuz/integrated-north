@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "885e85389fe4bfcdb5b7dd25dc6f1291e91241ec90c84f6f453536eaa8dbd70c"
+hash = "2e16cb9379097f8f2f68690722ddf7cbff2d1a567c4ddce0ae3c7b56dd11e770"
 
 [[files]]
 file = "config/emi.css"
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "94ec1ee1eedb129bec6774df2fd2a81d22abcca5ca2a36b668239e72c50ca9c5"
+hash = "c037c6303d677b7494018dc2c9c7b9c000e1cbb0e7a017fad5bd678dbba184f4"
 metafile = true
 
 [[files]]
