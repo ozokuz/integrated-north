@@ -48,7 +48,6 @@
   "blueflame.pw.toml": "both",
   "bookshelf-lib.pw.toml": "both",
   "building-gadgets.pw.toml": "both",
-  "carry-on.pw.toml": "both",
   "cataclysmic-combat.pw.toml": "both",
   "cc-tweaked.pw.toml": "both",
   "champions-unofficial.pw.toml": "both",
@@ -377,5 +376,6 @@
   "lootjs.pw.toml": "both",
   "colorwheel.pw.toml": "client",
   "status-effect-bars-reforged.pw.toml": "client",
-  "wakes-reforged.pw.toml": "client"
+  "wakes-reforged.pw.toml": "client",
+  "xaeros-maps-x-waystones.pw.toml": "both"
 }

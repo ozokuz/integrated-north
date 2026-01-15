@@ -1,29 +1,4 @@
 ServerEvents.recipes((event) => {
-  event.remove({ mod: "laserio" });
-  event.remove({ mod: "mininggadgets" });
-  event.remove({ mod: "buildinggadgets2" });
-  event.remove({ mod: "chunkloaders" });
-  event.remove({ mod: "waystones" });
-
-  event.remove({ output: "powah:dielectric_paste" });
-  event.remove({ id: "createaddition:liquid_burning/lava" });
-
-  event.remove({ output: "ars_creo:starbuncle_wheel" });
-  event.shapeless("ars_creo:starbuncle_wheel", [
-    "create:water_wheel",
-    "ars_nouveau:starbuncle_shards",
-  ]);
-
-  event.recipes.create
-    .mixing(Item.of("powah:dielectric_paste", 16), [
-      Fluid.of("minecraft:lava", 50),
-      Ingredient.of("#minecraft:coals"),
-      "minecraft:clay_ball",
-      "minecraft:blaze_powder",
-      "tfmg:cast_iron_ingot",
-    ])
-    .heated();
-
   event.custom({
     type: "justdirethings:goospread",
     craftingDuration: 600,
@@ -66,3 +41,4 @@ ServerEvents.tags("item", (event) => {
   event.removeAll("justdirethings:goo_revive_tier_4");
   event.add("justdirethings:goo_revive_tier_4", "minecraft:netherite_ingot");
 });
+

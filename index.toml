@@ -30,7 +30,11 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "ab58a65cb01b0039549bfbd29dfe1a52e94f8e97c2e2df8b000c026b04e1828b"
+hash = "97822dc8d5883da34aca6f0e5a17674d5731d814280d401e1e2bf5e46ea6efe3"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "b15439087bd01f734e39d20303bac154f681a2aab300581675ef97c6e6c879d0"
 
 [[files]]
 file = "config/emi.css"
@@ -66,7 +70,7 @@ hash = "bd6ca01c133c29860782e2e9e698d4063bbeb236cc7680550c7d495536afe4f3"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "d3e4517df0bf6f27acf0db9b0e67ec1b8829d4c5179e882d7a7c66e8d66984b9"
+hash = "4dc106c905d9b31ba29eb4e518712c41956f91a81cf302b2fd3a61c6c463ab50"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
@@ -93,16 +97,36 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
-file = "kubejs/server_scripts/ages_fix.js"
+file = "kubejs/server_scripts/balancing/balancing.js"
+hash = "17c74905c137b0f66ff765cebdc354399d7af920ab7833a25a5a7b23ee22b2bd"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/createaddons.js"
+hash = "5ebb05625171f78175c061839c72d5d7ecd8ee9d7875bece516393878769788b"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/dire_gadgets.js"
+hash = "f6291e6c05e724c157acf261c5da40b553e8f8065a6db0dd64b04f98eafc1634"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/justdirethings.js"
+hash = "1f0667c55243683e42fe17c971b6fb1062475fd68b8d574d2b1ab052661047aa"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/powah.js"
+hash = "9baa097976eea9aaf5ec39641942d04a757f0f2ce8a5ef376089df3d039f30fb"
+
+[[files]]
+file = "kubejs/server_scripts/fixes/ages_machines.js"
 hash = "06f54116cb4bd782525f97b1ac65a09760c3ca8220439a34ed14799495bae63b"
 
 [[files]]
-file = "kubejs/server_scripts/bad_endermen.js"
+file = "kubejs/server_scripts/tweaks/bad_endermen.js"
 hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
 
 [[files]]
-file = "kubejs/server_scripts/balancing.js"
-hash = "c961c7a143d856531c7d3e68c146b22206211d91624edcbae4198d0211d8bcab"
+file = "kubejs/server_scripts/tweaks/waystones.js"
+hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -367,11 +391,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "6754a1e22949871ce39fb01d3afddaec3bd6cd6389fe4578544ab1795e1db1f2"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "cc96b4bab8b7a7f137a245d67b446c75a353ba3d6609e9239da155099a543d6b"
 metafile = true
 
 [[files]]
@@ -1911,6 +1930,11 @@ metafile = true
 [[files]]
 file = "mods/xaero-train-map.pw.toml"
 hash = "e05ef95b74da853b6238f602c5895ca5c86ce03666374468c45e40387b9d1b55"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "841c90b1cfd045a883708f03e68af5d50eaf17cd8652c0d682f89d9026a68429"
 metafile = true
 
 [[files]]
