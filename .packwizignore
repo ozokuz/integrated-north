@@ -1,6 +1,9 @@
 .python-version
 .side_cache.json
 .venv/
+.probe/
+.vscode/
+kubejs/*/jsconfig.json
 README.md
 TODO.md
 update.py

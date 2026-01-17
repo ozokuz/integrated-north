@@ -377,5 +377,7 @@
   "colorwheel.pw.toml": "client",
   "status-effect-bars-reforged.pw.toml": "client",
   "wakes-reforged.pw.toml": "client",
-  "xaeros-maps-x-waystones.pw.toml": "both"
+  "xaeros-maps-x-waystones.pw.toml": "both",
+  "numismatics.pw.toml": "both",
+  "trashslot.pw.toml": "both"
 }

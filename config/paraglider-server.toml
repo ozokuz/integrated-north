@@ -6,7 +6,7 @@ updraft = true
 #Value of 0.5 means 50% of the speed, 2.0 means two times the speed and so forth.
 # Default: 1.0
 # Range: 0.2 ~ 10.0
-paraglidingSpeed = 1.2
+paraglidingSpeed = 3.0
 #Durability of Paragliders. Set to zero to disable durability.
 # Default: 0
 # Range: > 0
@@ -27,7 +27,7 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#Amount of Spirit Orbs dropped from spawners. Fractional values are treated as a chanced drop, in addition to whole values which is guaranteed to drop.
 	# Default: 1.0
 	# Range: 0.0 ~ 64.0
-	spawnerSpiritOrbDrops = 0.2
+	spawnerSpiritOrbDrops = 0.1
 	#Amount of Spirit Orbs dropped from completing trial. Fractional values are treated as a chanced drop, in addition to whole values which is guaranteed to drop.
 	# Default: 2.0
 	# Range: 0.0 ~ 64.0
@@ -38,7 +38,7 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	ominousTrialSpiritOrbDrops = 4.0
 	#If true, various types of chest will have chances of having Spirit Orbs inside.
 	#Does not change contents of already generated chests.
-	spiritOrbLoots = true
+	spiritOrbLoots = false
 
 [vessels]
 	#Starting health points measured in number of hearts.
@@ -54,11 +54,11 @@ paragliderInTowersOfTheWild = "DEFAULT"
 	#Amount of stamina players start with. One full stamina wheel is equivalent to 1000 stamina.
 	# Default: 1000
 	# Range: > 0
-	startingStamina = 1000
+	startingStamina = 600
 	#Maximum amount of Stamina Vessels one player can consume. Higher value = higher maximum stamina.
 	# Default: 10
 	# Range: > 0
-	maxStaminaVessels = 10
+	maxStaminaVessels = 12
 	#Stamina increase per vessel. One full stamina wheel is equivalent to 1000 stamina.
 	# Default: 200
 	# Range: > 0

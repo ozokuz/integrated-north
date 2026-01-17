@@ -1,12 +1,12 @@
 name = "Integrated North"
 author = "Ozoku"
-version = "0.1.4"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1fec602e24b95ad775604b8bb768647f77dd5c15af8664a6d2892ca9c5a04de6"
+hash = "2b82b6565f1341019001b0640db3cbfd4084d4a15ebf40e5ef7d47c3c209f93f"
 
 [versions]
 minecraft = "1.21.1"

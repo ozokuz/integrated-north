@@ -15,7 +15,7 @@
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
-	inventoryButton = ""
+	inventoryButton = "ANY"
 	#The x position of the inventory button in the inventory.
 	inventoryButtonX = 58
 	#The y position of the inventory button in the inventory.
@@ -48,11 +48,11 @@
 
 [teleports]
 	#Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-	enableCosts = false
+	enableCosts = true
 	#Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
 	enableCooldowns = true
 	#List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
-	warpRequirements = ["[is_not_interdimensional] scaled_add_xp_cost(distance, 0.01)", "[is_interdimensional] add_xp_cost(27)", "[source_is_warp_plate] multiply_xp_cost(0)", "[target_is_global] multiply_xp_cost(0)", "min_xp_cost(0)", "max_xp_cost(27)", "[source_is_inventory_button] add_cooldown(inventory_button, 300)"]
+	warpRequirements = ["[is_not_interdimensional] scaled_add_xp_cost(distance, 0.025)", "[is_interdimensional] refuse(Cannot teleport to another dimension.)", "min_xp_cost(7)", "max_level_cost(3)", "[source_is_inventory_button, not_has_item(waystones:warp_stone, 1)] refuse(You need a Warp Stone to use the inventory button.)", "[source_is_inventory_button, has_item(waystones:warp_stone, 1)] add_cooldown(inventory_button, 300)"]
 	#Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
 	#Allowed Values: ENABLED, SAME_DIMENSION, DISABLED
 	transportPets = "DISABLED"

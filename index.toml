@@ -30,11 +30,15 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "97822dc8d5883da34aca6f0e5a17674d5731d814280d401e1e2bf5e46ea6efe3"
+hash = "5ce32cc3534a1196892d3c2178fd2cf9deb38cf8336dd68d6c8ef50c5856f4df"
 
 [[files]]
 file = "config/create-server.toml"
 hash = "b15439087bd01f734e39d20303bac154f681a2aab300581675ef97c6e6c879d0"
+
+[[files]]
+file = "config/createcobblestone-common.toml"
+hash = "6420ff37660be6e5e6e44614b3614326ea4958870e0ceb50a92100ccbc3aa184"
 
 [[files]]
 file = "config/emi.css"
@@ -54,7 +58,403 @@ hash = "aa57943a7c0edc242de06fc0a3d008b081259ce1e8ee6ed4d8a51af076185aa7"
 
 [[files]]
 file = "config/paraglider-server.toml"
-hash = "bb40f74570c403b74194ba237d9259c1538d3c97970ed40bcea4413e7e317981"
+hash = "58a8662d1310ce74d5b5a8af3cd20a46f0163f59bdee5132949579b2e06583a6"
+
+[[files]]
+file = "config/rarcompat/relics/anglers_hat.yaml"
+hash = "1c024c31e1c25b364498c56c6718d066df0fe95a4554df2869c85f195c450133"
+
+[[files]]
+file = "config/rarcompat/relics/antidote_vessel.yaml"
+hash = "da25d4defa05059edf81c07a3bed8b478eff3ec4857f54c5a1780cd9b5861672"
+
+[[files]]
+file = "config/rarcompat/relics/bunny_hoppers.yaml"
+hash = "bf699dbf3a6e8a200cdb34a9f824d982ee6b1f72bf979c43ec263bee92c020cc"
+
+[[files]]
+file = "config/rarcompat/relics/charm_of_shrinking.yaml"
+hash = "7ddde85cb36c7abeba706fd67dbbb009e6e54f14b7105582968724c4859e99b7"
+
+[[files]]
+file = "config/rarcompat/relics/charm_of_sinking.yaml"
+hash = "0c989d1863090267dd5249a81145b45cdeb8fd3c031aab5b7959582ac769f2d6"
+
+[[files]]
+file = "config/rarcompat/relics/chorus_totem.yaml"
+hash = "ccd377a7dac21a7f65a1d6220a76a1a2488101c3010e0ed2a5ef1dd191f3fcc6"
+
+[[files]]
+file = "config/rarcompat/relics/cloud_in_a_bottle.yaml"
+hash = "abb75d7f83277ff727825bb0ec73acd31510676fa3c64152de42753e11358056"
+
+[[files]]
+file = "config/rarcompat/relics/cowboy_hat.yaml"
+hash = "90b12a4bd47940f4c80bd86e307990c24bec21133399a98aea7ec9cacf6b703f"
+
+[[files]]
+file = "config/rarcompat/relics/cross_necklace.yaml"
+hash = "0343d3ed0925786cb58141fa82b43f18e584e4e987fc62b07e0a064aa1799ddd"
+
+[[files]]
+file = "config/rarcompat/relics/crystal_heart.yaml"
+hash = "d7e73ce08bff94222c06a45ca1e701ab34a9694cec70f6a985a293b15161802b"
+
+[[files]]
+file = "config/rarcompat/relics/digging_claws.yaml"
+hash = "c0214f691affd9770b05df6bfb2fd1cf319405f21291f616e81ff58f496ac305"
+
+[[files]]
+file = "config/rarcompat/relics/feral_claws.yaml"
+hash = "e9336a139a7f342b1c20ddce90121c3289e01947a52b4dfa22660b3292fa7de2"
+
+[[files]]
+file = "config/rarcompat/relics/fire_gauntlet.yaml"
+hash = "9171186263e3513e51ea883347c41f56ad3965b2113ba88c9d6f7f35510cd0f4"
+
+[[files]]
+file = "config/rarcompat/relics/flame_pendant.yaml"
+hash = "68f104f0a824c7fffc0ae9eadb70c0253be80df0317313779ce1c755d34ba25a"
+
+[[files]]
+file = "config/rarcompat/relics/flippers.yaml"
+hash = "4580fa3ff99e074e556674405a0e89cc162f9a1ce7e28ed79eabe31182c67b94"
+
+[[files]]
+file = "config/rarcompat/relics/golden_hook.yaml"
+hash = "7687468f83fbdd74b691723e1c4798839a2d9c03c3c3c6d20214a2250132b617"
+
+[[files]]
+file = "config/rarcompat/relics/helium_flamingo.yaml"
+hash = "8012630fc361e329e3e8d1c15eefb6f377dac5957c730261c08c410cb37840ae"
+
+[[files]]
+file = "config/rarcompat/relics/kitty_slippers.yaml"
+hash = "7ba11248e57edf67fb9db632ea723797870da2e7ff21f4f2762df8eab39e556a"
+
+[[files]]
+file = "config/rarcompat/relics/lucky_scarf.yaml"
+hash = "edde7926886e19f0babdc044cefe338c78cfb30bfcb8e46a6e253b57760506ec"
+
+[[files]]
+file = "config/rarcompat/relics/night_vision_goggles.yaml"
+hash = "0dde3fc4af0b75bce4ee79486ecf6ebed2bcb4a71540556474ce17a7fb06be79"
+
+[[files]]
+file = "config/rarcompat/relics/novelty_drinking_hat.yaml"
+hash = "9abfc93ce01b5d967df3c8852e0852e90f2f7a6f8d5a6bff6ce1175b6fc71885"
+
+[[files]]
+file = "config/rarcompat/relics/obsidian_skull.yaml"
+hash = "d9ab46bb5d9b2a537677efbc0c28c85cbacd1819441a8b3b6d625dfee374a77d"
+
+[[files]]
+file = "config/rarcompat/relics/onion_ring.yaml"
+hash = "e9bacb24e8591debf55f755914fa6c33b924d7efa88721b7ab7b5609d3f1ea96"
+
+[[files]]
+file = "config/rarcompat/relics/panic_necklace.yaml"
+hash = "645e8b57c89ef3bce8e877302a51b5b1cb73c328b4a8dba84e6653f64cdb0430"
+
+[[files]]
+file = "config/rarcompat/relics/pickaxe_heater.yaml"
+hash = "390c19e4171fdae15eeef176af11152f0b078a6d4e0aaf9e33fc10f4ffedc035"
+
+[[files]]
+file = "config/rarcompat/relics/plastic_drinking_hat.yaml"
+hash = "9abfc93ce01b5d967df3c8852e0852e90f2f7a6f8d5a6bff6ce1175b6fc71885"
+
+[[files]]
+file = "config/rarcompat/relics/pocket_piston.yaml"
+hash = "8b0ed42db3243db8ffa11c48d92800aa937a7f20c2809eeb2defd7d7ddebef59"
+
+[[files]]
+file = "config/rarcompat/relics/power_glove.yaml"
+hash = "8cce8c1d3b6bbbe91e78d6897045cd9ed2c3423e7885b848f08a6f67ae6fc8f0"
+
+[[files]]
+file = "config/rarcompat/relics/rooted_boots.yaml"
+hash = "055069ce16991888975dae9f0a44cfea24ec91797637cd7b18e28773eb1efb31"
+
+[[files]]
+file = "config/rarcompat/relics/running_shoes.yaml"
+hash = "6e20ecf8b5d747a867494b623e5a58bbf6fd05737f3bd7ae190625333d979df1"
+
+[[files]]
+file = "config/rarcompat/relics/scarf_of_invisibility.yaml"
+hash = "ca00411a529c579be176c9a4ca55f12f6612447a5a20e2aecdbaf396f4994b73"
+
+[[files]]
+file = "config/rarcompat/relics/shock_pendant.yaml"
+hash = "b89f9f28949420031f8441e70b17361d0bb3346a6ef7377a267e96ab599c99a7"
+
+[[files]]
+file = "config/rarcompat/relics/snorkel.yaml"
+hash = "9327cda75d0db9e3df899657db1e37266e905883990f84df3fe37af6187c5167"
+
+[[files]]
+file = "config/rarcompat/relics/snowshoes.yaml"
+hash = "36bdab350fc13b6a438368aee3211dbe34cd30582564667e471f918008410016"
+
+[[files]]
+file = "config/rarcompat/relics/steadfast_spikes.yaml"
+hash = "e70d48eddaf4de96776bd9e737348bd95fe4b2475b7d21f6091514725d962bd0"
+
+[[files]]
+file = "config/rarcompat/relics/superstitious_hat.yaml"
+hash = "a0729c386a1eda34725beca4a601917a9bf52231ffcbb8e908218fdc2c26e6b5"
+
+[[files]]
+file = "config/rarcompat/relics/thorn_pendant.yaml"
+hash = "cafcfa06a4885ba78894db6af2afc6aeada3fc70503ab152474256996e770424"
+
+[[files]]
+file = "config/rarcompat/relics/umbrella.yaml"
+hash = "e05a7c48590595013698c758961eec3a02781367293200b6b0dfcadc4047550b"
+
+[[files]]
+file = "config/rarcompat/relics/universal_attractor.yaml"
+hash = "187c90e269a4dad169dd75c75d244580d577033dcfd51cdb50cf720edbac30ef"
+
+[[files]]
+file = "config/rarcompat/relics/vampiric_glove.yaml"
+hash = "8d4ddbbbc5ee8eb94ae96610ed59599165107232ef2b2547bfba92c8d0e82833"
+
+[[files]]
+file = "config/rarcompat/relics/villager_hat.yaml"
+hash = "7b32f8c65bf75ee9ca42a24a3627cdc29686f1578e33e03e1c7e6c6da19397ba"
+
+[[files]]
+file = "config/rarcompat/relics/warp_drive.yaml"
+hash = "4b4f241047c2b07243a5d6496372507f8ef365695ff7d632ab51958f110ed246"
+
+[[files]]
+file = "config/rarcompat/relics/whoopee_cushion.yaml"
+hash = "9b028ddf9d35ec9a534642d7ba2dd0823f6759f72c67d8627d2637f61dfa06ed"
+
+[[files]]
+file = "config/rarcompat/relics/withered_bracelet.yaml"
+hash = "cb84e911e696ca73dcfae72bda15c0459f4bd7bc4c2a238f3fdc45b4c8c77b0a"
+
+[[files]]
+file = "config/relics.yaml"
+hash = "6b639bdf78022af725141301e5e0dd988ef5e6a7e541b4407db5ef52415e311c"
+
+[[files]]
+file = "config/relics/loot.yaml"
+hash = "39273f313254b6d912b5c631501d377facbf4127a0979424497e9a24ff00134b"
+
+[[files]]
+file = "config/relics/relics/amphibian_boot.yaml"
+hash = "d53eb6cddbc37bcb05107871c711148f97e85abbb655c6c7b9554fed697aaf06"
+
+[[files]]
+file = "config/relics/relics/aqua_walker.yaml"
+hash = "3dc6eeb4ae217bbdeb07216975047ef388947046ee27cb7dee033cbf1e20801e"
+
+[[files]]
+file = "config/relics/relics/bastion_ring.yaml"
+hash = "424e830896a1dcd8073303e5c54d598a8da2692e2b3fe3dc5580408533124cc7"
+
+[[files]]
+file = "config/relics/relics/blazing_flask.yaml"
+hash = "e28c3c08ee83f9367160a4707b9599d984d8b00f8ff103457c914b1f7710bfbc"
+
+[[files]]
+file = "config/relics/relics/chorus_inhibitor.yaml"
+hash = "86b158010c0201f050159cf9196e837dd92c147a21ac03c389680807f598060e"
+
+[[files]]
+file = "config/relics/relics/drowned_belt.yaml"
+hash = "e5c914db12b2ceea249f563bf5ca3d6fb417f537a65a7d2623c5c74e101214b8"
+
+[[files]]
+file = "config/relics/relics/elytra_booster.yaml"
+hash = "a6279b137eb73271b493b3dfab33abb82c73bef0804be0a5f174f4dbbd2bda8e"
+
+[[files]]
+file = "config/relics/relics/enders_hand.yaml"
+hash = "a3651a53a4442ec1fa81af0855a21c1bb4e4001e0542d99dd7b535f16df35b88"
+
+[[files]]
+file = "config/relics/relics/holy_locket.yaml"
+hash = "1bcd03410af462b415283e0b07de6d9c445eccf5cd23577ca44f83da38b7478a"
+
+[[files]]
+file = "config/relics/relics/hunter_belt.yaml"
+hash = "0d514483313bf9cf37fcd3a9c35d4f91aa9991c81beed18c5513f811fd958508"
+
+[[files]]
+file = "config/relics/relics/ice_breaker.yaml"
+hash = "9f7d2794eb15d03f1fa8743c00daba40a592db99c8f152302019e561622827c8"
+
+[[files]]
+file = "config/relics/relics/ice_skates.yaml"
+hash = "a1a13d690c5960551fdf61f274cc79f09f2b4f72570ee4f465ee9ccb4dd56c49"
+
+[[files]]
+file = "config/relics/relics/infinity_ham.yaml"
+hash = "13e66fc63d2e5c6224492da6957df940f67a326ec01a3c91354e1d5a0b475e80"
+
+[[files]]
+file = "config/relics/relics/jellyfish_necklace.yaml"
+hash = "824e11d9d1dce06f2853d77f93d6a5a4c6e2df9445264a48c6ba50ca65d7d425"
+
+[[files]]
+file = "config/relics/relics/leafy_ring.yaml"
+hash = "a7999898eb81f0cbbf110d164b27ec58c29a0df80cf7fda37b7527b4a921cd52"
+
+[[files]]
+file = "config/relics/relics/leather_belt.yaml"
+hash = "f1e0108d66e07992e330628b0742738898cd2692f930ecea31d0343ee1311d58"
+
+[[files]]
+file = "config/relics/relics/magic_mirror.yaml"
+hash = "094fff17353605af600b404906dcc9ca8793848cc96c3eabbd458922a9725922"
+
+[[files]]
+file = "config/relics/relics/magma_walker.yaml"
+hash = "9afce9f6e3d257249738340e570ba5a97411cd894bd3b72553bb5521718a2f9f"
+
+[[files]]
+file = "config/relics/relics/midnight_robe.yaml"
+hash = "14a98555a4d676fcfa6774ea16ae0ee230fb2a5f8a622a0eb93ea7bfacffaf24"
+
+[[files]]
+file = "config/relics/relics/phantom_boot.yaml"
+hash = "4e98379f412e61e4557c86868f26cce559f0ff8d9c8ec4e53c2e702eb18d6701"
+
+[[files]]
+file = "config/relics/relics/rage_glove.yaml"
+hash = "7be9867682422fc67d02463580ead525c3fcb8be227491fdd8d958e50f9bc7f0"
+
+[[files]]
+file = "config/relics/relics/reflection_necklace.yaml"
+hash = "32de03dca77f656339a7b557431365cdff3c43320fd76b0606cf871e1651b6a1"
+
+[[files]]
+file = "config/relics/relics/roller_skates.yaml"
+hash = "94a38e7ee15a2e693ea5954f02e21684f9468c7891f3f4de55851f1fb0a5ceb3"
+
+[[files]]
+file = "config/relics/relics/shadow_glaive.yaml"
+hash = "f4fe1b821a9cbb228d77068be5711c9242e66e660c3e29c2c88e12caa1b15570"
+
+[[files]]
+file = "config/relics/relics/space_dissector.yaml"
+hash = "3b0fcfeee904a91e9c9f2677c4fe5ccc135c01d88a5d4a22a5cca7b061db3054"
+
+[[files]]
+file = "config/relics/relics/spore_sack.yaml"
+hash = "89933c0f94b9d4ec12798c61081441a74bfcaccd61a821d395ea96c642fad78f"
+
+[[files]]
+file = "config/relics/relics/springy_boot.yaml"
+hash = "f0dd29c355204b5ea550b5f730d6d0d8761380a18ab389e23b8272f4abd6aa9d"
+
+[[files]]
+file = "config/relics/relics/wool_mitten.yaml"
+hash = "d401e00fde5f9c9a7d0afaa83df262a2ef2ff1433620911b2be5197491d9e57f"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/architects_staff.yaml"
+hash = "51e03d034948f2442afc1043f70ea728e9ead5519efd603082a90aa912b23722"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/archmage_glove.yaml"
+hash = "41e5a6074ae8b59be1668815b780c6b162bb8ac02f42628d6429946d93bf35fe"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/ballistarian_bracer.yaml"
+hash = "ad40327654e91ea1cabccdec65ba547e7ac224b8b6a1ab666b064e0a4d0f7685"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/cloak_of_concealment.yaml"
+hash = "f157f58ec65d7385911f4834db09b525ab381f8b324cb33ffcdeb849d58cd1b2"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/emblem_of_assault.yaml"
+hash = "3c4982e76a700bab79bb28264430677b15c82bafbe2ed75173c23a725cf47d2d"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/emblem_of_defense.yaml"
+hash = "8716668d563d4e1a267c454dd01760279300713ad892d8d7c046f9471c022def"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/emblem_of_devotion.yaml"
+hash = "453cba23f93dfc8a534796507eb286f9cb1799704ab03ef8be84003fbc814c0f"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/flaming_bracer.yaml"
+hash = "c442517a9fec066b71adf0c253536b48b626b9bf169cfc923c6c373b5f48b91f"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/horn_of_the_wild_hunter.yaml"
+hash = "831ebc9e4d8baa7d2dd7a04b1928e5a3a7851e5b45164e0a24228c668f406b8a"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/illusionists_mantle.yaml"
+hash = "f54411640a74d94b8ba57625361d7d2e2dab634f0b9a1bdd499ca9de527be090"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/mana_ring.yaml"
+hash = "c2bf27506856f9bf87d925d87861827646cae891e8c6f5f4930bc39b0ff3c8eb"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/quantum_bubble.yaml"
+hash = "d48a4b0fad342dce6c9d96eb5d0ad680c21dd45a083a949ff839e666a1188518"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/ring_of_last_will.yaml"
+hash = "9c277903cfc95dd3e3a73d66ddfd8f69e80aee629e2ab8231ea3fda6f369cea1"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/ring_of_the_spectral_walker.yaml"
+hash = "543d0e6aa225d51b7179d3d35ac6bc882693f4c9e4dc08b1c027eb4f185890ff"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/ring_of_thrift.yaml"
+hash = "f4e4a3cf42d4a40ed3f0fe4bb8870d3bc1713c386d75b554dfcb3cb9029ffcb1"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/spiked_cloak.yaml"
+hash = "b0dcf3211e7dac853aa85d42b54815cd041f39507eff627eba34be7d709505d0"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/whirling_broom.yaml"
+hash = "0254e356584a47ec534fb93aa715e381f9978339c19ac3c40dd8143a505ae29d"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/whirlisprig_petals.yaml"
+hash = "3be47ac062b8cdbd817f182a74da08950c38fc78bb49038b8bdd5fe4d764de33"
+
+[[files]]
+file = "config/reliquified_ars_nouveau/relics/wing_of_the_wild_stalker.yaml"
+hash = "8bc8fcb29ef3a05c521e6f110ba5701cddbe22d685537cb18b75bec608427545"
+
+[[files]]
+file = "config/reliquified_lenders_cataclysm/relics/scouring_eye.yaml"
+hash = "ef5cac58f79754f4f6b4c1aa1fd196567a4b52aefd12b70428b350b306c86a4e"
+
+[[files]]
+file = "config/reliquified_lenders_cataclysm/relics/vacuum_glove.yaml"
+hash = "da9728db759422b69a454e7c6d24d30d4a2098bc886e5585743ef87e7b471c2a"
+
+[[files]]
+file = "config/reliquified_lenders_cataclysm/relics/void_bubble.yaml"
+hash = "96eca56e48d03d80a25d9d5362ec49b6d4b9af54a519beb734bf032c77eb5154"
+
+[[files]]
+file = "config/reliquified_lenders_cataclysm/relics/void_cloak.yaml"
+hash = "aded9f6a2e6cdcff8f30600ea051d5ca60e48972b5e5b33c83d94466c17ec5ee"
+
+[[files]]
+file = "config/reliquified_lenders_cataclysm/relics/void_vortex_in_bottle.yaml"
+hash = "193be96e3e38e76dcf2fa299a404edede14d5fc257f4ce4d42cccbd67271cf18"
+
+[[files]]
+file = "config/simplyswords/loot.toml"
+hash = "135dcfd79e301cae4e02ede69ca8d5673b4fee05a7176e7034da30f4647ff8a7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -70,7 +470,7 @@ hash = "bd6ca01c133c29860782e2e9e698d4063bbeb236cc7680550c7d495536afe4f3"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "4dc106c905d9b31ba29eb4e518712c41956f91a81cf302b2fd3a61c6c463ab50"
+hash = "4582ad1a33523218e9acb72fc8dcbe29b5144454aaa7f7c23ed6fd49ff184d92"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
@@ -97,6 +497,26 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
+file = "kubejs/data/artifacts/loot_table/items/crystal_heart.json"
+hash = "92716d25043f34c003c36e81d881bd0cdf3cf3ac26d46693619524dfc9b50c05"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_table/items/everlasting_beef.json"
+hash = "ccf5397b27c667d99ea2bf192bdc928b5c528c458bd738c80ebea3b693e1784d"
+
+[[files]]
+file = "kubejs/data/artifacts/loot_table/items/power_glove.json"
+hash = "5d6928e56a9ce8c50ab4989b9cbb8c3175a7af48c7e02fa99a7d5fb11924cf7d"
+
+[[files]]
+file = "kubejs/data/createcobblestone/generator_types/cobbled_deepslate.json"
+hash = "650861bdedc61ca37738db5e62a2637a5e980d465bd36fb65e085b419e559200"
+
+[[files]]
+file = "kubejs/data/createcobblestone/generator_types/deepslate.json"
+hash = "239873909f45d9b1bf2a73ca30dc57e04c4cb6820b7a39480b450fb59bf0b9a0"
+
+[[files]]
 file = "kubejs/server_scripts/balancing/balancing.js"
 hash = "17c74905c137b0f66ff765cebdc354399d7af920ab7833a25a5a7b23ee22b2bd"
 
@@ -117,8 +537,16 @@ file = "kubejs/server_scripts/balancing/powah.js"
 hash = "9baa097976eea9aaf5ec39641942d04a757f0f2ce8a5ef376089df3d039f30fb"
 
 [[files]]
+file = "kubejs/server_scripts/bans.js"
+hash = "20f000e3d8976c881f462443cf8521d932ba90ec69f6b3746d78ab785d4a65ea"
+
+[[files]]
 file = "kubejs/server_scripts/fixes/ages_machines.js"
 hash = "06f54116cb4bd782525f97b1ac65a09760c3ca8220439a34ed14799495bae63b"
+
+[[files]]
+file = "kubejs/server_scripts/purge.js"
+hash = "d20f084aeb518f1d77c6489e54e6a16b0b59998f129d475dffc56c65eb54753e"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/bad_endermen.js"
@@ -1383,6 +1811,11 @@ hash = "f945d3cd1d4bdd83793320a1d1ed49e33fff2ba0e4cfc0a0efb1c239eee44cb9"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "803cee33e53713a18f631ec6255c322815988ef4b590ee5a1187f1402111d1f9"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "672bdd5774144b17f52a1f8fb0bf9a69a90ea588bb28d292dacab64c7448223a"
 metafile = true
@@ -1835,6 +2268,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "726ecebc5d1a2792af50baf6c7ece03bc371918b2b65817c742b6459547e2d55"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
 metafile = true
 
 [[files]]
