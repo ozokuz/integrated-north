@@ -602,7 +602,7 @@ hash = "239873909f45d9b1bf2a73ca30dc57e04c4cb6820b7a39480b450fb59bf0b9a0"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/balancing.js"
-hash = "17c74905c137b0f66ff765cebdc354399d7af920ab7833a25a5a7b23ee22b2bd"
+hash = "993ad724bd10c94f3d9e809686d9d08d2fc0686e8d6bf9f1c4cba0b2c05bda4f"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/createaddons.js"
@@ -626,7 +626,7 @@ hash = "20f000e3d8976c881f462443cf8521d932ba90ec69f6b3746d78ab785d4a65ea"
 
 [[files]]
 file = "kubejs/server_scripts/progression.js"
-hash = "78cc9783fb1099c7e9328422749d709ae995b0e80b47a78d0a92533e02dbfd99"
+hash = "9c07826792edf2857d5bb9b7d60df4d3f2fa01990515df6f33befef534756986"
 
 [[files]]
 file = "kubejs/server_scripts/purge.js"
@@ -642,7 +642,7 @@ hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
 
 [[files]]
 file = "kubejs/startup_scripts/additions.js"
-hash = "d17fd5675dc5c18c129d22c15b6a91acb2aea26506b49af5bf65d20ea3d3a9eb"
+hash = "56e4de05c856eb32b0cec1756582bcb7cf8a1d913e980e1c39b73d4059c5b9b3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2562,3 +2562,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "513e50fed7181ce292b080e4dbffd14becdc569fee10b9c38af31795ea5ad5be"
 metafile = true
+
+[[files]]
+file = "thinking.md"
+hash = "753e41a671b1f03a226344f45dd6c14ba185c091eb119bfd3f974f48c02cb6d0"
