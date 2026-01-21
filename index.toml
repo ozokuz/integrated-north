@@ -497,6 +497,90 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/blazegold_casing.png"
+hash = "f770736102f11e67a73866a81cf8460d867432acc273595831b2b9ac6926d88b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/blazegold_machine.png"
+hash = "c7cf94c97269a3b7d4ccbd4ae2d59da5899985dab28231b98899dd5959708841"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/celestigem_casing.png"
+hash = "95939231aec6cef7548defc8e3915c5526f9cf44da82bd6a2c9383f3ca521dac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/celestigem_machine.png"
+hash = "e5b4f7c696231834457331015ccfc45767c6ba566c72f345105b8b5c80d8eca1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/dielectric_casing.png"
+hash = "af33784e02a69301818e37baa65daa441046df884f1687198dcdabbd40fd477b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/eclipsealloy_casing.png"
+hash = "b68b4fd087a66a4b45ab73886c4d36849aac0d5a64cfd3795da491a8295a6969"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/eclipsealloy_machine.png"
+hash = "e08a2f0767dc5d7113403174ab14583d6306a3eee47a9f383d559f7db8019a5e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ferricore_casing.png"
+hash = "46774b5136628714982fc0467fc594b6e4244299acaddcf846df358f163baa48"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ferricore_machine.png"
+hash = "b093987a315b592c323c5ba7bcfb1a38362d2908c14e1a6bd9177e8faf8d61c6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/fluix_casing.png"
+hash = "e0fa88292d38cfdfc3e7fc1e1e3eb79ff9bf9534cb8f17da71640b8b32b0c673"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/train_machine.png"
+hash = "a0aceddda401f31a3d3b6dddb065573253cefc797a93fbd95094fe7ae473b44d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/blazegold_mechanism.png"
+hash = "74cc16b45a3a7dbde0d03a547f7c6eaa73114aedf047bf13dbe2d8b9e89fe323"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/celestigem_mechanism.png"
+hash = "6bfb75c05ece4e7c8f95efacea292c17524f250e5d557f769a93f801a6b71ac2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/eclipsealloy_mechanism.png"
+hash = "bd915aa39cbe98435aed217bd6751ece4ba16ec9b345ec9e702e039a2b72e8cf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ferricore_mechanism.png"
+hash = "cf3aa15c2573c12211671c3086586c5b82615122e411b7b9e95e3bccbee15bc6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/gold_mechanism.png"
+hash = "848bd24ed643bb714f29f7dc662bc78846617df5463c430f7626b6e851c45e76"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_blazegold_mechanism.png"
+hash = "f9e781f4ec54855d3a481146a7850795db173e2ea1d733e2761532bdbcedf70b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_celestigem_mechanism.png"
+hash = "f5d05b194786e2c627278f60829a2f0fe3112795f9901f67fe418acfbbe096bb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_eclipsealloy_mechanism.png"
+hash = "96c789aa15b85a76aa11f3723d765834340a237f14b6d82a496cf95bc8401d78"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_ferricore_mechanism.png"
+hash = "322792ea69add6454575a177fc4099ebb82dd95074ac01f5a619b509b3aff374"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_gold_mechanism.png"
+hash = "52001552d8edc605f269bfa48899764292f8cc9017a2110af66171b40e8981bf"
+
+[[files]]
 file = "kubejs/data/artifacts/loot_table/items/crystal_heart.json"
 hash = "92716d25043f34c003c36e81d881bd0cdf3cf3ac26d46693619524dfc9b50c05"
 
@@ -541,8 +625,8 @@ file = "kubejs/server_scripts/bans.js"
 hash = "20f000e3d8976c881f462443cf8521d932ba90ec69f6b3746d78ab785d4a65ea"
 
 [[files]]
-file = "kubejs/server_scripts/fixes/ages_machines.js"
-hash = "06f54116cb4bd782525f97b1ac65a09760c3ca8220439a34ed14799495bae63b"
+file = "kubejs/server_scripts/progression.js"
+hash = "78cc9783fb1099c7e9328422749d709ae995b0e80b47a78d0a92533e02dbfd99"
 
 [[files]]
 file = "kubejs/server_scripts/purge.js"
@@ -555,6 +639,10 @@ hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
 [[files]]
 file = "kubejs/server_scripts/tweaks/waystones.js"
 hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
+
+[[files]]
+file = "kubejs/startup_scripts/additions.js"
+hash = "d17fd5675dc5c18c129d22c15b6a91acb2aea26506b49af5bf65d20ea3d3a9eb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -963,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ages.pw.toml"
-hash = "6c8b6219d9a9835e87baaf7e2bb18a26bcb94157a0778c34c4477d1efe000ad7"
+hash = "690eba9ed1f4609efc40631b4ce70910d62347859dd2176886e07acdbb9b72e1"
 metafile = true
 
 [[files]]
@@ -1324,6 +1412,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "d030466307665547724fa30e5342efcf3f4944255524d2889d1236be781af608"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
 metafile = true
 
 [[files]]
@@ -1883,6 +1976,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a72018dfd9e1338d680c7a9c9b0be8bc67bc0701e7fb44ba4697b2d3c9a95186"
+metafile = true
+
+[[files]]
+file = "mods/pipe-connector.pw.toml"
+hash = "f2b43e024b72533dcc5c1eecfb8e96a13d1f6bf2effcb2018938ed8a6d400918"
 metafile = true
 
 [[files]]

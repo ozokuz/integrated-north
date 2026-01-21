@@ -1,15 +1,13 @@
-filename = 'createages-0.4.2.jar'
-name = 'Create: Ages'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Create: Ages"
+filename = "createages-0.5.0b.jar"
+side = "both"
 
 [download]
-hash = 'c62de51428d98a50ab1c836ba6fa11226df44b57'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "daea2ac0263c005e78847a170b4509f413e60b6b"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 7407211
+file-id = 7476864
 project-id = 1274414
