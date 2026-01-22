@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5ce32cc3534a1196892d3c2178fd2cf9deb38cf8336dd68d6c8ef50c5856f4df"
+hash = "a5c8f0418662ae48240a88a1e4f266310f6876998510aaef619b4c35f1a5c582"
 
 [[files]]
 file = "config/champions-entities.toml"

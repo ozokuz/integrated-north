@@ -187,7 +187,6 @@
   "keybindspurger.pw.toml": "client",
   "kiwi.pw.toml": "both",
   "kleeslabs.pw.toml": "both",
-  "knight-lib.pw.toml": "both",
   "kotlin-for-forge.pw.toml": "both",
   "kubejs.pw.toml": "both",
   "kubejs-create.pw.toml": "both",
@@ -379,5 +378,9 @@
   "wakes-reforged.pw.toml": "client",
   "xaeros-maps-x-waystones.pw.toml": "both",
   "numismatics.pw.toml": "both",
-  "trashslot.pw.toml": "both"
+  "trashslot.pw.toml": "both",
+  "ftb-filter-system.pw.toml": "both",
+  "pipe-connector.pw.toml": "both",
+  "create-mechanical-spawner.pw.toml": "both",
+  "mechanicals-lib.pw.toml": "both"
 }
