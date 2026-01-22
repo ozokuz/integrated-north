@@ -74,9 +74,7 @@
   "crafting-on-a-stick.pw.toml": "both",
   "crafting-station-jei-edition-updated.pw.toml": "both",
   "crafting-tweaks.pw.toml": "both",
-  "create.pw.toml": "both",
   "create-advanced-logistics.pw.toml": "both",
-  "create-ages.pw.toml": "both",
   "create-aquatic-ambitions.pw.toml": "both",
   "create-central-kitchen.pw.toml": "both",
   "create-cobblestone.pw.toml": "both",
@@ -234,7 +232,6 @@
   "particular-reforged.pw.toml": "both",
   "patchouli.pw.toml": "both",
   "perception.pw.toml": "client",
-  "petrolpark-library.pw.toml": "both",
   "petrols-parts.pw.toml": "both",
   "pick-up-notifier.pw.toml": "both",
   "placebo.pw.toml": "both",
@@ -379,8 +376,11 @@
   "xaeros-maps-x-waystones.pw.toml": "both",
   "numismatics.pw.toml": "both",
   "trashslot.pw.toml": "both",
-  "ftb-filter-system.pw.toml": "both",
-  "pipe-connector.pw.toml": "both",
+  "create-ages.pw.toml": "both",
   "create-mechanical-spawner.pw.toml": "both",
-  "mechanicals-lib.pw.toml": "both"
+  "ftb-filter-system.pw.toml": "both",
+  "mechanicals-lib.pw.toml": "both",
+  "pipe-connector.pw.toml": "both",
+  "petrolpark-library.pw.toml": "both",
+  "create.pw.toml": "both"
 }

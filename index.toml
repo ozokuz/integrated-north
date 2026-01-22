@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a5c8f0418662ae48240a88a1e4f266310f6876998510aaef619b4c35f1a5c582"
+hash = "518af11f6423ee337b71e567b269fc9675a65ba14eac2faeba0cb0f118f67f85"
 
 [[files]]
 file = "config/champions-entities.toml"
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "c2e47ecb4a5fde44759801b68440ab1af1a44258ba53084dd5dfd07f8f37e845"
 metafile = true
 
 [[files]]
@@ -2018,7 +2018,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark-library.pw.toml"
-hash = "096fc729ca7ad57f55bf866e56e5c26030d1c55260c0a2898b13bd5cea95980c"
+hash = "14cc70be52dd0b6a25de9f639f191da10d07003210133f3ee4a103ca734d8225"
 metafile = true
 
 [[files]]
