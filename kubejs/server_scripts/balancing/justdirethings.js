@@ -1,4 +1,33 @@
 ServerEvents.recipes((event) => {
+  const removals = [
+    "justdirethings:blockbreakert1",
+    "justdirethings:blockplacert1",
+    "justdirethings:clickert1",
+    "justdirethings:sensort1",
+    "justdirethings:droppert1",
+    "justdirethings:fluidplacert1",
+    "justdirethings:fluidcollectort1",
+    "justdirethings:itemcollector",
+    "justdirethings:blockswappert1",
+    "justdirethings:playeraccessor",
+    "justdirethings:inventory_holder",
+    "justdirethings:experienceholder",
+    "justdirethings:energytransmitter",
+    "justdirethings:blockbreakert2",
+    "justdirethings:blockplacert2",
+    "justdirethings:clickert2",
+    "justdirethings:sensort2",
+    "justdirethings:droppert2",
+    "justdirethings:fluidplacert2",
+    "justdirethings:fluidcollectort2",
+    "justdirethings:blockswappert2",
+    "justdirethings:paradoxmachine",
+  ];
+
+  removals.forEach((recipe) => {
+    event.remove({ output: recipe });
+  });
+
   event.custom({
     type: "justdirethings:goospread",
     craftingDuration: 600,
@@ -41,4 +70,3 @@ ServerEvents.tags("item", (event) => {
   event.removeAll("justdirethings:goo_revive_tier_4");
   event.add("justdirethings:goo_revive_tier_4", "minecraft:netherite_ingot");
 });
-

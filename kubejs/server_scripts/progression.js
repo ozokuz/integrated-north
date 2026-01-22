@@ -13,8 +13,6 @@ ServerEvents.recipes((event) => {
     "powah:aerial_pearl",
     "powah:dielectric_casing",
     "laserio:laser_connector",
-    "laserio:logic_chip_raw",
-    "laserio:logic_chip",
     "laserio:laser_node",
     "createages:computing_mechanism",
     "ae2:controller",
@@ -209,7 +207,12 @@ ServerEvents.recipes((event) => {
     "powah:dielectric_casing",
     "kubejs:dielectric_casing",
     "kubejs:incomplete_dielectric_machine",
-    ["powah:aerial_pearl", "", "powah:aerial_pearl"],
+    [
+      "powah:aerial_pearl",
+      "",
+      "powah:aerial_pearl",
+      "create_new_age:overcharged_diamond",
+    ],
   );
 
   event.recipes.create.deploying("laserio:laser_connector", [
@@ -217,36 +220,10 @@ ServerEvents.recipes((event) => {
     "create:electron_tube",
   ]);
 
-  event.replaceInput(
-    { input: "laserio:logic_chip" },
-    "laserio:logic_chip",
-    "create_new_age:copper_circuit",
-  );
-
   event.recipes.create.deploying("laserio:laser_node", [
     "laserio:laser_connector",
     "create_new_age:copper_circuit",
   ]);
-
-  casing(
-    "kubejs:fluix_casing",
-    "ae2:fluix_block",
-    "create_new_age:overcharged_iron_sheet",
-  );
-
-  mechanism(
-    "createages:computing_mechanism",
-    "create:precision_mechanism",
-    "createages:incomplete_computing_mechanism",
-    ["ae2:silicon", "ae2:fluix_crystal", "create:electron_tube"],
-  );
-
-  machine(
-    "ae2:controller",
-    "kubejs:fluix_casing",
-    "kubejs:incomplete_fluix_machine",
-    ["createages:computing_mechanism", "", "createages:computing_mechanism"],
-  );
 
   mechanism(
     "tfmg:steel_mechanism",
@@ -260,6 +237,26 @@ ServerEvents.recipes((event) => {
     "tfmg:steel_casing",
     "kubejs:incomplete_steel_machine",
     ["tfmg:steel_mechanism", "", "tfmg:steel_mechanism"],
+  );
+
+  casing(
+    "kubejs:fluix_casing",
+    "ae2:fluix_block",
+    "create_new_age:overcharged_iron_sheet",
+  );
+
+  mechanism(
+    "createages:computing_mechanism",
+    "tfmg:steel_mechanism",
+    "createages:incomplete_computing_mechanism",
+    ["ae2:silicon", "ae2:fluix_crystal", "create:electron_tube"],
+  );
+
+  machine(
+    "ae2:controller",
+    "kubejs:fluix_casing",
+    "kubejs:incomplete_fluix_machine",
+    ["createages:computing_mechanism", "", "createages:computing_mechanism"],
   );
 
   casing(

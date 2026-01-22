@@ -70,4 +70,17 @@ StartupEvents.registry("item", (event) => {
     .displayName("Incomplete " + "ME Controller")
     .texture("kubejs:block/fluix_casing");
   machine("steel", "Steel", "tfmg:block/steel_casing");
+
+  function processor(name, displayName) {
+    event
+      .create("incomplete_" + name + "_processor", "create:sequenced_assembly")
+      .displayName("Incomplete " + displayName + " Processor")
+      .texture("ae2:item/" + name + "_processor");
+  }
+
+  processor("logic", "Logic");
+  processor("engineering", "Engineering");
+  processor("calculation", "Calculation");
 });
+
+Platform.mods.kubejs.name = "Integrated North";

@@ -33,6 +33,10 @@ file = "config/bcc-common.toml"
 hash = "5ce32cc3534a1196892d3c2178fd2cf9deb38cf8336dd68d6c8ef50c5856f4df"
 
 [[files]]
+file = "config/champions-entities.toml"
+hash = "379975c7ebe6a6579965e9e5090cd4a41edb7a7c06d300ebce3ab3a038c7ded8"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "b15439087bd01f734e39d20303bac154f681a2aab300581675ef97c6e6c879d0"
 
@@ -581,6 +585,14 @@ file = "kubejs/assets/kubejs/textures/item/incomplete_gold_mechanism.png"
 hash = "52001552d8edc605f269bfa48899764292f8cc9017a2110af66171b40e8981bf"
 
 [[files]]
+file = "kubejs/client_scripts/remove_duplicates.js"
+hash = "34e50e28254f780afa4c08194721cbcbf52fdf5a4616332a491acedb99ea2aba"
+
+[[files]]
+file = "kubejs/client_scripts/rename.js"
+hash = "19d103cbe12e22d22ecb6f91c68fc7ef2796c0a0241362052aba100722431516"
+
+[[files]]
 file = "kubejs/data/artifacts/loot_table/items/crystal_heart.json"
 hash = "92716d25043f34c003c36e81d881bd0cdf3cf3ac26d46693619524dfc9b50c05"
 
@@ -601,8 +613,20 @@ file = "kubejs/data/createcobblestone/generator_types/deepslate.json"
 hash = "239873909f45d9b1bf2a73ca30dc57e04c4cb6820b7a39480b450fb59bf0b9a0"
 
 [[files]]
-file = "kubejs/server_scripts/balancing/balancing.js"
-hash = "993ad724bd10c94f3d9e809686d9d08d2fc0686e8d6bf9f1c4cba0b2c05bda4f"
+file = "kubejs/server_scripts/balancing/applied_energistics.js"
+hash = "06a55dc881954b1ca7470256752c68fef974226c22e08748281da14424f7c000"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/ars_nouveau.js"
+hash = "56e044672cdfe35bdb4555200f5e88687b0af726336774e331c9aae64752f367"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/bans.js"
+hash = "20f000e3d8976c881f462443cf8521d932ba90ec69f6b3746d78ab785d4a65ea"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/create_trains.js"
+hash = "e8ba93e2f1fb498b3a6749c58f2ef62f82a39569c5a246aa7dd7609165eb701d"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/createaddons.js"
@@ -610,31 +634,55 @@ hash = "5ebb05625171f78175c061839c72d5d7ecd8ee9d7875bece516393878769788b"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/dire_gadgets.js"
-hash = "f6291e6c05e724c157acf261c5da40b553e8f8065a6db0dd64b04f98eafc1634"
+hash = "58a5b2b94f67bbd8c8ca06e8ea0e328e8f3e2fb6d4479979299aa25ef79c1101"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/hostile_neural_networks.js"
+hash = "8d2daaeb1235a9cfa1bd9d505725468525f552c3ea01a05421a7a646f983b4d1"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/justdirethings.js"
-hash = "1f0667c55243683e42fe17c971b6fb1062475fd68b8d574d2b1ab052661047aa"
+hash = "16bb9326ffe1627c3b3432a5364815f35eeacb0f647abd06c0f1847adad8ae85"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/laserio.js"
+hash = "41dccddb8d948caeead6ec5051c4bf85c8a738f05c238909ac52466c09897501"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/powah.js"
 hash = "9baa097976eea9aaf5ec39641942d04a757f0f2ce8a5ef376089df3d039f30fb"
 
 [[files]]
-file = "kubejs/server_scripts/bans.js"
-hash = "20f000e3d8976c881f462443cf8521d932ba90ec69f6b3746d78ab785d4a65ea"
+file = "kubejs/server_scripts/balancing/purge.js"
+hash = "d20f084aeb518f1d77c6489e54e6a16b0b59998f129d475dffc56c65eb54753e"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/shop_only.js"
+hash = "bca622415940e956ea45a2df7f3596f4dbb4b4d8d3b7de3c40dd7b8864b92d7c"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/temp_remove.js"
+hash = "93c8547a01ae4b7dee195a6e4c6b998146e2457d663c4731e07be77a4e40c246"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/tempad.js"
+hash = "b9f53c5b9bba6841284b8868083fdef7f1f17e6ac67deccb2984ca2b4ed37e8c"
 
 [[files]]
 file = "kubejs/server_scripts/progression.js"
-hash = "9c07826792edf2857d5bb9b7d60df4d3f2fa01990515df6f33befef534756986"
-
-[[files]]
-file = "kubejs/server_scripts/purge.js"
-hash = "d20f084aeb518f1d77c6489e54e6a16b0b59998f129d475dffc56c65eb54753e"
+hash = "69cf2a0a124cd334c37b76d2d153ca4f76cb0bda243ad47e91d229358dd8c377"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/bad_endermen.js"
 hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/remove_duplicates.js"
+hash = "1fe7fb1cd41de06af95050af1a2aca8e8f8dbaa1e80ed54d7452195ff665a8ff"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/stack_drill.js"
+hash = "1dab7637bcebde617d01a63892aa67df28b4be576e2a884e8b7e72cf943de94a"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/waystones.js"
@@ -642,7 +690,7 @@ hash = "63cc6085f7d051556748faf21da54e15730116edf72bb26c13073b5dbccaf079"
 
 [[files]]
 file = "kubejs/startup_scripts/additions.js"
-hash = "56e4de05c856eb32b0cec1756582bcb7cf8a1d913e980e1c39b73d4059c5b9b3"
+hash = "f4387211f68d8c0e14f804736f8bb08f34804151504569f673970b9553209b64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1150,6 +1198,11 @@ hash = "dada9b22bb52e447b7b917f968ea9f6e78f552f355aba8b1917414e007e0092c"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "4fffb425b88da93d488b601eaa68f97acaa6938c9effe17388b32cd4423c81c3"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "6a853315a283fcaf64eeea3d1aef4491de7a76f3c8140f06c6ad7a89f25f7d75"
 metafile = true
@@ -1201,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c2e47ecb4a5fde44759801b68440ab1af1a44258ba53084dd5dfd07f8f37e845"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
@@ -1655,11 +1708,6 @@ hash = "8862fe973ebed1c797439c2969f96f7c6bf4ead5ff04f90b5a995a92d9c3dee1"
 metafile = true
 
 [[files]]
-file = "mods/knight-lib.pw.toml"
-hash = "1f4ecf9944fd3e182fc688333a384ff24e4165f4b0fa31ea3a9b8e731657ff30"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fb0619c5cc62ea369970d0af829187848f1266824511c1cf50115e3eeeb17a61"
 metafile = true
@@ -1757,6 +1805,11 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "07924c137c284edb4674dfab96f22b58bc2cc247bdaa06448950b4b57838215a"
+metafile = true
+
+[[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "1ea69b6af6b76fca203a514a5d191300454ea9d020aa585dbef2dae697eac66a"
 metafile = true
 
 [[files]]
@@ -1965,7 +2018,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark-library.pw.toml"
-hash = "14cc70be52dd0b6a25de9f639f191da10d07003210133f3ee4a103ca734d8225"
+hash = "096fc729ca7ad57f55bf866e56e5c26030d1c55260c0a2898b13bd5cea95980c"
 metafile = true
 
 [[files]]
@@ -2565,4 +2618,4 @@ metafile = true
 
 [[files]]
 file = "thinking.md"
-hash = "753e41a671b1f03a226344f45dd6c14ba185c091eb119bfd3f974f48c02cb6d0"
+hash = "8198511353b22e830fc2f1418ed77e912ee459ec7f00585af6511c86736a4ee1"
