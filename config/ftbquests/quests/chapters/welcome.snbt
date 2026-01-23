@@ -1,0 +1,98 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "45FCFA686EC4553B"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:bundle"
+			}
+			id: "7660B3710C34E477"
+			rewards: [{
+				count: 2
+				id: "3520515DEF63B6DD"
+				item: {
+					count: 1
+					id: "supplementaries:sack"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DAED60576124CA0"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7660B3710C34E477"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "2FE5FA336D0A19D2"
+			rewards: [
+				{
+					id: "21555AF917B3281D"
+					item: {
+						count: 1
+						id: "ultimine_addition:skills_record"
+					}
+					type: "item"
+				}
+				{
+					id: "700A875390E8EE0D"
+					item: {
+						count: 1
+						id: "ultimine_addition:pen"
+					}
+					type: "item"
+				}
+				{
+					id: "163C2E05D82BA319"
+					item: {
+						count: 1
+						id: "ultimine_addition:mining_skill_card_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					id: "422712B1641537A9"
+					item: {
+						count: 1
+						id: "ultimine_addition:mining_skill_card_axe"
+					}
+					type: "item"
+				}
+				{
+					id: "7AC970E8505FF3BB"
+					item: {
+						count: 1
+						id: "ultimine_addition:mining_skill_card_shovel"
+					}
+					type: "item"
+				}
+				{
+					id: "298C086187211F8A"
+					item: {
+						count: 1
+						id: "ultimine_addition:mining_skill_card_hoe"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "31F6E90292CDDDE6"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+	]
+}

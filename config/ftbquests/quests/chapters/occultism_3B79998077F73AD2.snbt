@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "occultism_3B79998077F73AD2"
+	group: "494D3700040D4BF1"
+	icon: {
+		id: "occultism:ritual_dummy/summon_foliot_crusher"
+	}
+	id: "3B79998077F73AD2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

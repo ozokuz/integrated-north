@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "digital_age"
+	group: "7388234CF84F36A7"
+	icon: {
+		id: "modern_industrialization:digital_circuit"
+	}
+	id: "30E60C947B75C0F4"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

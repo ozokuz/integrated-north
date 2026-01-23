@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "occultism"
+	group: "1A4488685DC36554"
+	icon: {
+		id: "occultism:dimensional_matrix"
+	}
+	id: "3B52A830C5BBFD6F"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

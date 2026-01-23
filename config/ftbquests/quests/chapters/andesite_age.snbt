@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "andesite_age"
+	group: "61CE1CDA4A440F55"
+	icon: {
+		id: "createages:andesite_mechanism"
+	}
+	id: "3F98E1CB33FD8F24"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

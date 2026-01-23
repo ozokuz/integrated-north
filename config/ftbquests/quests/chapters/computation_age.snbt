@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "computation_age"
+	group: "61CE1CDA4A440F55"
+	icon: {
+		id: "createages:computing_mechanism"
+	}
+	id: "728087BC2FF41532"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+}

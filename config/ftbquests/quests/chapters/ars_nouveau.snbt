@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_nouveau"
+	group: "494D3700040D4BF1"
+	icon: {
+		id: "ars_nouveau:archmage_spell_book"
+	}
+	id: "62B67FA73A87426C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

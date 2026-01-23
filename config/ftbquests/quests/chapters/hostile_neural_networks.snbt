@@ -1,0 +1,16 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hostile_neural_networks"
+	group: "434995539F2276E8"
+	icon: {
+		components: {
+			"hostilenetworks:data_model": "hostilenetworks:ghast"
+		}
+		id: "hostilenetworks:data_model"
+	}
+	id: "061298B50DD8183F"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

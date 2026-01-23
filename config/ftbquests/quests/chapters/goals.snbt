@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "goals"
+	group: ""
+	icon: {
+		id: "petrolpark:badge/competition_winner"
+	}
+	id: "1CDC52BD5092AC32"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

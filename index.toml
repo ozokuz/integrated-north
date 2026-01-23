@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "518af11f6423ee337b71e567b269fc9675a65ba14eac2faeba0cb0f118f67f85"
+hash = "74d461f453b63a0fe69d1da8ac5f9805c1f8a1316587e699a97d1a35bba1e92c"
 
 [[files]]
 file = "config/champions-entities.toml"
@@ -51,6 +51,158 @@ hash = "e508c09e5dcc1fa00d689546d3e69d3faeebdebc3f9e4b68912332f3632d96e3"
 [[files]]
 file = "config/fml.toml"
 hash = "ae54768733410adc27681c133e6879af43482b3e05dabd9ef25a13ed13ceb994"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "270f6cea0db55ac541cf18bd597e81a0600c891de67967a28af03965d8060167"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/andesite_age.snbt"
+hash = "e59a0d63ea2f0fce5f9b3c4e7c413952a66da912e5181880c7d9497c24300fc7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
+hash = "0f5afe01024a6203e6bbaf2a92486e4b3305cb9f20f627100def41797b30c426"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
+hash = "933caa9ae8710d4e5964c4e1dd1d6b2865f8af541a98253143a686aa7a3d1b9b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ars_storage.snbt"
+hash = "bee338518fa0208bc134cb4c55739ce7b882093e04f44214142f64b8b7c83cc1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/bounties.snbt"
+hash = "89c7b6a42dc238e8c0c8a10e39490c8b632378fadcdd2d5c337bd21394bc5ced"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/brass_age.snbt"
+hash = "013227e3707c82748bd520da3c44e266e38a1e2cc2344cd6cdab839ce1bad247"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/computation_age.snbt"
+hash = "5ecc43dd694ddbefdf17da76ff44f0571f7e705ad6ee8c20a1a31e1537038017"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "6c7345f5866be977371a16f4638d28faa89a7cdea5e1cd163e38334f550b9f57"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_stock_network.snbt"
+hash = "5aa624fae629d05c63833ce9b577e7c36852c4387178460b3cfeca45e055e875"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/digital_age.snbt"
+hash = "0aadd049b2a8f516f8c9bcc8a91ba475e8c3c2b45ce8b698668e6f9b7f62c960"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/electric_age.snbt"
+hash = "32509d96f5ccd93c22660810063e81f159c0b3ac9cabd3726cb57139f59d8766"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/end_game.snbt"
+hash = "777355cadcd82954afd210cfc5bc50d8820093a63d5d23d06e5b9bdb7e54e764"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/forge_energy.snbt"
+hash = "c3628f5fc73d3011689de4b82c44187563c8a2abdfdf9cdc63eab8b61f0623d8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/goals.snbt"
+hash = "8716bd69f01e5f5e3fb6eb7b2648a0e37a7be6e24466cca7134c1f8fb8311e1b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/hostile_neural_networks.snbt"
+hash = "39b20c8c78ec3967d273cf6f154a4844d14ad32fc6addd7f9e41b2ae1c4f9496"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/irons_spells__spellbooks.snbt"
+hash = "30bef50c131ec489e322ded618814710336196e7c851fa40cebbf59e18c2db81"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/just_dire_things.snbt"
+hash = "f25801c7e3821ec4075b9104e81e5ac516c7efbded4d29e7a9d725cdd936ae05"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mechanical_spawner.snbt"
+hash = "5bfb4a0f8de440c79420dfe90f4a1a33b6e576a86eeeedb28e8c41aa4cbd2411"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "1bcdb123db4bf490638da957ecef4f181f2ebc38e820601a4a454ed7d909b7b3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/missions.snbt"
+hash = "28242d6decfe674279a105f3f839065549afe7c831d20bb4058f63fe0cb09c31"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/occultism.snbt"
+hash = "bc530f8dc3836f2954baa1dea08c84297ddf415904be5be21768698cb2346962"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/occultism_3B79998077F73AD2.snbt"
+hash = "67ce1180ed6a548681c785f6e38e09a530227f62618b45865cd45f432aed51da"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/overview.snbt"
+hash = "96bd797ffe52f57e60a0d384e58509f6b0c0aff9d88dccb0c39bd84e5d2ac4d1"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/portable.snbt"
+hash = "f1985cab49fbe89f373ca2bbc47f607c90ba68a784697cc17d8ffca0d599f04b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/qol.snbt"
+hash = "678d94f00c142c4b897ad9577669c761013b84aefad703d1860f75bba4e8db97"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/shipments.snbt"
+hash = "f4096953f08b10bce48ca3d25c7762851a87d7d641c82c7e978e4112ecb34556"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/shop.snbt"
+hash = "24c711a959e40cbfbbca38e20a41ab369b1d017617677033d939d61f709de65b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/steam_age.snbt"
+hash = "86932bc7c559246e516411f66f85ab41ce93b1896f54b5db8f741558d21ff5e2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/steel_age.snbt"
+hash = "1f1dac2a9cfb21b1822c24a42312d8d00eb143efb9d0ec67412368a83e11f29b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "951cc705a818b130e9772bcc9467f1c7e818a9af11656cda33f8507ba5d2364b"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/stress_units.snbt"
+hash = "f73e2c85da6d7ec1ba8f42a6d3b1f1bc430b3a7b93f6ef44aa1cfb5f6c735d3f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tempad.snbt"
+hash = "9266c05b00f5b60d35013eec90a8e0e1a554328f32aafda51a2bb55fdd9cbb66"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_factory_must_grow.snbt"
+hash = "2e22d200a9027e23c91db8647b7bc154c0531ab57ffd016b6ee47b0cd6f0c724"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tools.snbt"
+hash = "a4895db7256407ccf3b3ccc21eea9669e757a6a2f96f05aa51c45868f18ac693"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/welcome.snbt"
+hash = "a5d28d81d86ea3e3b8b40f400f9629981a39260bfc2da551ac1c4d50b258855c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "8756d0eed917e4af67001eb1014e364a257d012136f39587ab086c4e91099296"
 
 [[files]]
 file = "config/lmft.json"
@@ -465,6 +617,10 @@ file = "config/sophisticatedbackpacks-server.toml"
 hash = "23c0b97cecd9b1158cee5c1883d0a07a67dceb938350639ff08ecf7f91554b26"
 
 [[files]]
+file = "config/tempad.jsonc"
+hash = "a11491059d1731c510b780c393d54de54498e4b0cbe47d487c28becc21ec9e75"
+
+[[files]]
 file = "config/traveloptics/traveloptics-common.toml"
 hash = "7d61885c367b7749f4c1464b2ba7f5701f38b30bb27d57055eb7681920b4f891"
 
@@ -667,6 +823,10 @@ hash = "93c8547a01ae4b7dee195a6e4c6b998146e2457d663c4731e07be77a4e40c246"
 [[files]]
 file = "kubejs/server_scripts/balancing/tempad.js"
 hash = "b9f53c5b9bba6841284b8868083fdef7f1f17e6ac67deccb2984ca2b4ed37e8c"
+
+[[files]]
+file = "kubejs/server_scripts/fixes.js"
+hash = "ad1f7336dbc8f68fd43b7115b488496209c7613163664e6f6fe1b4421547aafd"
 
 [[files]]
 file = "kubejs/server_scripts/progression.js"

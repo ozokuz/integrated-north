@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: "501CBF7858A55187"
+	icon: {
+		id: "createages:andesite_machine"
+	}
+	id: "5ED2663B4254272E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

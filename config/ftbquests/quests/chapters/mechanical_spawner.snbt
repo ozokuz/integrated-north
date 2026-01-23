@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mechanical_spawner"
+	group: "434995539F2276E8"
+	icon: {
+		id: "create_mechanical_spawner:mechanical_spawner"
+	}
+	id: "33C43C9DEF6FE82F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

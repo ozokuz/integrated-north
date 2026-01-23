@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_storage"
+	group: "1A4488685DC36554"
+	icon: {
+		id: "ars_nouveau:storage_lectern"
+	}
+	id: "256A739BA3197501"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

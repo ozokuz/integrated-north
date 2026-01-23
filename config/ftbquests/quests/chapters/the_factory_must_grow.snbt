@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_factory_must_grow"
+	group: "501CBF7858A55187"
+	icon: {
+		id: "tfmg:steel_distillation_controller"
+	}
+	id: "0327DF91A21CE8DB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

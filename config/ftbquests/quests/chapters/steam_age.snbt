@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam_age"
+	group: "7388234CF84F36A7"
+	icon: {
+		id: "modern_industrialization:bronze_ingot"
+	}
+	id: "1929D5E4C483977D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tools"
+	group: "1E1E4DF021B8CFE2"
+	icon: {
+		id: "silentgear:chestplate_blueprint"
+	}
+	id: "138D4422008BFD4C"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+}

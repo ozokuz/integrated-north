@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shipments"
+	group: "19E5DB19FC04E8E1"
+	icon: {
+		id: "create:cardboard_package_12x10"
+	}
+	id: "35A14EBEF1A9797A"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

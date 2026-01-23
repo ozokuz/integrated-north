@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "brass_age"
+	group: "61CE1CDA4A440F55"
+	icon: {
+		id: "create:precision_mechanism"
+	}
+	id: "51D37A6A1A4C4C11"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

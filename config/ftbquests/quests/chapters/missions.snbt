@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "missions"
+	group: "19E5DB19FC04E8E1"
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "6AEA6F2FB74BF8B8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

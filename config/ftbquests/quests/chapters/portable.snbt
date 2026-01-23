@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "portable"
+	group: "1A4488685DC36554"
+	icon: {
+		id: "sophisticatedbackpacks:backpack"
+	}
+	id: "1A2CB4F33338D2D4"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

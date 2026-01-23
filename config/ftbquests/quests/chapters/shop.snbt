@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shop"
+	group: "19E5DB19FC04E8E1"
+	icon: {
+		id: "createdeco:gold_coinstack"
+	}
+	id: "3BBC5AD534C8E5A8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

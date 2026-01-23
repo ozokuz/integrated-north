@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stress_units"
+	group: "769F584083FE742B"
+	icon: {
+		id: "create:cogwheel"
+	}
+	id: "7421D92CFE7B136F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}
