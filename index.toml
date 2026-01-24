@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "74d461f453b63a0fe69d1da8ac5f9805c1f8a1316587e699a97d1a35bba1e92c"
+hash = "a565a44ff6c08932151fa96c77819e033dd47fc91cbff94e7be2fc7c10c2c335"
 
 [[files]]
 file = "config/champions-entities.toml"
@@ -43,6 +43,10 @@ hash = "b15439087bd01f734e39d20303bac154f681a2aab300581675ef97c6e6c879d0"
 [[files]]
 file = "config/createcobblestone-common.toml"
 hash = "6420ff37660be6e5e6e44614b3614326ea4958870e0ceb50a92100ccbc3aa184"
+
+[[files]]
+file = "config/dragonfight.json"
+hash = "4fdfd66b310d782a07d868b59a8d5af7aee237fd22edfaafb4875b06d1e7c3da"
 
 [[files]]
 file = "config/emi.css"
@@ -1125,11 +1129,6 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "8682ae2578486f9f819b2af1caec8693523c77eff21bc4d2c52149b3d0d36aee"
-metafile = true
-
-[[files]]
-file = "mods/champions-unofficial.pw.toml"
-hash = "adeecb030d8815b794385eebe58d3138be55700cba57839aa3708da82d75f6d9"
 metafile = true
 
 [[files]]
