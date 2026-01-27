@@ -1652,6 +1652,11 @@ hash = "ccbbd0829b6b2f78f7fc3d312cf3742983235fc7f6fdb07b263a124c1878ddc0"
 metafile = true
 
 [[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "35012b26cae6348c3385cf8f0a14e47590b6f82c25a50cf56de0df3ac46bbbfb"
+metafile = true
+
+[[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "80313ad8aa09e1400d17b539d84316f681b86a32922abd2e83e065e5fd6fef33"
 metafile = true

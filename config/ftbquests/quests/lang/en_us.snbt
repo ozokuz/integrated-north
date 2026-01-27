@@ -43,6 +43,9 @@
 	chapter_group.61CE1CDA4A440F55.title: "Progression"
 	chapter_group.7388234CF84F36A7.title: "Modern Industrialization"
 	chapter_group.769F584083FE742B.title: "Power"
+	quest.0157388B3AD76D97.title: "Overworld"
+	quest.0D0362321A9771DD.title: "Deep Dark"
+	quest.128407A94185C66F.title: "End"
 	quest.2FE5FA336D0A19D2.quest_desc: [
 		"FTB Ultimine is a veinmining mod included in this pack. But! It requires you to do some work to access it."
 		"First get these items and put them inside the Skills Record. Then get some paper and dye."
@@ -51,6 +54,7 @@
 		"Later levels can also be bought from the shop."
 		"When you have mastered all 4 mining skills you can craft a permit to unlock vein mining permanently."
 	]
+	quest.4FCF3EA8080C2C89.title: "Nether"
 	quest.7660B3710C34E477.quest_desc: ["Here's something for you to start with."]
 	task.31F6E90292CDDDE6.title: "Ultimine"
 	task.4789ECB4759BD6D9.title: "Juu"
