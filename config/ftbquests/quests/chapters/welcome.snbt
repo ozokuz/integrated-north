@@ -86,6 +86,24 @@
 					}
 					type: "item"
 				}
+				{
+					count: 64
+					id: "46B7E8980DCFC527"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2934BC9C00B2511D"
+					item: {
+						count: 1
+						id: "minecraft:red_dye"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "31F6E90292CDDDE6"

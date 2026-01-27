@@ -114,7 +114,7 @@ hash = "c3628f5fc73d3011689de4b82c44187563c8a2abdfdf9cdc63eab8b61f0623d8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/goals.snbt"
-hash = "8716bd69f01e5f5e3fb6eb7b2648a0e37a7be6e24466cca7134c1f8fb8311e1b"
+hash = "4de4dd521647447d848fe6326782d010331f9641d489b71737c9592685558170"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hostile_neural_networks.snbt"
@@ -150,7 +150,7 @@ hash = "67ce1180ed6a548681c785f6e38e09a530227f62618b45865cd45f432aed51da"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/overview.snbt"
-hash = "96bd797ffe52f57e60a0d384e58509f6b0c0aff9d88dccb0c39bd84e5d2ac4d1"
+hash = "d626763f50c93baf9c467f3961f9330dfdf705eff79361748cd6f4dde3df8e91"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/portable.snbt"
@@ -186,7 +186,7 @@ hash = "f73e2c85da6d7ec1ba8f42a6d3b1f1bc430b3a7b93f6ef44aa1cfb5f6c735d3f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tempad.snbt"
-hash = "9266c05b00f5b60d35013eec90a8e0e1a554328f32aafda51a2bb55fdd9cbb66"
+hash = "550d461863fc8d8f4014c068b149c30338afe428707946cd8ee379ef00b1a655"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_factory_must_grow.snbt"
@@ -198,7 +198,7 @@ hash = "a4895db7256407ccf3b3ccc21eea9669e757a6a2f96f05aa51c45868f18ac693"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
-hash = "a5d28d81d86ea3e3b8b40f400f9629981a39260bfc2da551ac1c4d50b258855c"
+hash = "31bbf424f819e22dce24ccd420f7bc1c4772592d35df0399f2790c01afa7d77b"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -206,7 +206,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "8756d0eed917e4af67001eb1014e364a257d012136f39587ab086c4e91099296"
+hash = "d461b788f193013715af522c84671ead51b2790f10e1626b61cf05faf1231cc6"
 
 [[files]]
 file = "config/lmft.json"

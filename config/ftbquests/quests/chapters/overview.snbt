@@ -397,15 +397,14 @@
 			y: 0.0d
 		}
 		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
 			id: "0157388B3AD76D97"
 			shape: "octagon"
 			tasks: [{
-				dimension: "minecraft:overworld"
-				icon: {
-					id: "minecraft:grass_block"
-				}
-				id: "1C05190C82DD101B"
-				type: "dimension"
+				id: "571998CF3FC26C3E"
+				type: "checkmark"
 			}]
 			x: -16.5d
 			y: 0.0d

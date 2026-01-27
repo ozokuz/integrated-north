@@ -11,150 +11,159 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["06FFFE64A6089B56"]
+			dependencies: ["45F913075B6A1B7F"]
 			id: "19C185B582F26EAB"
+			shape: "diamond"
 			tasks: [{
 				id: "3351044344FE6E8C"
 				item: { count: 1, id: "tempad:location_card" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -7.5d
+			x: -6.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["19C185B582F26EAB"]
 			id: "249564CCA9F1D8C3"
+			shape: "diamond"
 			tasks: [{
 				id: "43C79633EB0E2B76"
 				item: { count: 1, id: "tempad:card_wallet" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -8.0d
+			x: -6.5d
+			y: -6.0d
 		}
 		{
 			id: "45F913075B6A1B7F"
+			shape: "octagon"
 			tasks: [{
 				id: "2B9772BD210BEEF7"
 				item: { count: 1, id: "tempad:knowledge_projector" }
 				type: "item"
 			}]
 			x: -5.0d
-			y: -0.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["7C01E1EC02617F69"]
 			id: "2DECFE354D2E87C4"
+			shape: "diamond"
 			tasks: [{
 				id: "4807658E1DF6AD36"
 				item: { count: 1, id: "tempad:workstation" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -1.0d
+			x: -5.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["601A0141D311DB43"]
 			id: "7C01E1EC02617F69"
+			shape: "diamond"
 			tasks: [{
 				id: "3845FB135CDBD837"
 				item: { components: { "tempad:chronon_content_tempad": 1, "tempad:chronon_content_time_twister": 0 }, count: 1, id: "tempad:tempad" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -1.0d
+			x: -5.0d
+			y: 0.0d
 		}
 		{
-			dependencies: [
-				"5DCC230AF5451844"
-				"3C47C5FA9363F779"
-			]
+			dependencies: ["3C47C5FA9363F779"]
 			id: "601A0141D311DB43"
+			shape: "diamond"
 			tasks: [{
 				id: "75ED62021C422A8B"
 				item: { components: { "tempad:chronon_content": 0 }, count: 1, id: "tempad:chronon_battery" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -2.5d
+			x: -5.0d
+			y: -2.0d
 		}
 		{
-			dependencies: [
-				"601A0141D311DB43"
-				"3956F9F033ACF6C0"
-			]
+			dependencies: ["601A0141D311DB43"]
 			id: "27BD5927E84E8513"
+			shape: "diamond"
 			tasks: [{
 				id: "392DEFFB225150E9"
 				item: { count: 1, id: "tempad:chronometer" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -2.5d
+			x: -6.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["601A0141D311DB43"]
 			id: "636B10F2121A8138"
+			shape: "diamond"
 			tasks: [{
 				id: "7D7DC4B3D97DB184"
 				item: { count: 1, id: "tempad:time_twister" }
 				type: "item"
 			}]
-			x: -13.5d
-			y: -5.0d
+			x: -4.0d
+			y: -1.0d
 		}
 		{
+			dependencies: ["601A0141D311DB43"]
 			id: "79A321AA19ED5E89"
+			shape: "diamond"
 			tasks: [{
 				id: "7E4F629C95326E98"
 				item: { count: 1, id: "tempad:metronome" }
 				type: "item"
 			}]
-			x: -12.5d
-			y: -5.0d
+			x: -6.0d
+			y: -1.0d
 		}
 		{
-			dependencies: ["45B6B4054E37E5F4"]
+			dependencies: ["3C47C5FA9363F779"]
 			id: "5E7DAF85F7B62FE6"
+			shape: "diamond"
 			tasks: [{
 				id: "104126CD5B0496D1"
 				item: { count: 1, id: "tempad:screening_device" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.5d
+			x: -3.5d
+			y: -1.5d
 		}
 		{
-			dependencies: ["06FFFE64A6089B56"]
+			dependencies: ["45F913075B6A1B7F"]
 			id: "45B6B4054E37E5F4"
+			shape: "diamond"
 			tasks: [{
 				id: "6E5F226DDCBF7732"
 				item: { count: 1, id: "tempad:location_broadcaster" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -12.0d
+			x: -3.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["5DCC230AF5451844"]
 			id: "3956F9F033ACF6C0"
+			shape: "diamond"
 			tasks: [{
 				id: "6B1ED10B53917762"
 				item: { count: 1, id: "tempad:chronon_generator" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: -5.5d
+			x: -3.5d
+			y: -6.0d
 		}
 		{
-			dependencies: ["06FFFE64A6089B56"]
+			dependencies: ["45F913075B6A1B7F"]
 			id: "5DCC230AF5451844"
+			shape: "diamond"
 			tasks: [{
 				id: "11A623F2211D8569"
 				item: { components: { "tempad:chronon_content": 0 }, count: 1, id: "tempad:chronon_cell" }
 				type: "item"
 			}]
 			x: -4.0d
-			y: -6.0d
+			y: -5.5d
 		}
 		{
 			dependencies: [
@@ -162,69 +171,67 @@
 				"3C47C5FA9363F779"
 			]
 			id: "79F2EE74DF85F407"
+			shape: "diamond"
 			tasks: [{
 				id: "70FC0B32B87E99F1"
 				item: { count: 1, id: "tempad:chronomark" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -3.5d
+			x: -6.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["19C185B582F26EAB"]
 			id: "281D6C63EF9DAD10"
+			shape: "diamond"
 			tasks: [{
 				id: "664D4EF940EF7553"
 				item: { count: 1, id: "tempad:timedoor_marker" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -7.0d
+			x: -6.5d
+			y: -5.0d
 		}
 		{
-			dependencies: [
-				"281D6C63EF9DAD10"
-				"5DCC230AF5451844"
-			]
+			dependencies: ["5DCC230AF5451844"]
 			id: "2575F0B1C574E2BC"
+			shape: "diamond"
 			tasks: [{
 				id: "4D56676A746F02AB"
 				item: { components: { "tempad:chronon_content": 0 }, count: 1, id: "tempad:timedoor_projector" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -5.0d
 			y: -6.5d
 		}
 		{
-			dependencies: [
-				"45F913075B6A1B7F"
-				"2DECFE354D2E87C4"
-			]
+			dependencies: ["2DECFE354D2E87C4"]
 			id: "1543B5AFF76D3BA7"
+			shape: "diamond"
 			tasks: [{
 				id: "6074AB43874956DB"
 				item: { count: 1, id: "tempad:knowledge_repository_upgrade" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -0.5d
+			x: -5.5d
+			y: 1.0d
 		}
 		{
-			dependencies: [
-				"2DECFE354D2E87C4"
-				"45B6B4054E37E5F4"
-			]
+			dependencies: ["2DECFE354D2E87C4"]
 			id: "72B35FE9F06090D8"
+			shape: "diamond"
 			tasks: [{
 				id: "4603B82C6D6E3121"
 				item: { count: 1, id: "tempad:player_teleport_upgrade" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -1.5d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
+			dependencies: ["45F913075B6A1B7F"]
 			id: "3C47C5FA9363F779"
+			shape: "square"
 			tasks: [{
 				id: "1F06423D31A5BEF3"
 				item: { count: 1, id: "tempad:time_steel" }
@@ -232,16 +239,6 @@
 			}]
 			x: -5.0d
 			y: -3.0d
-		}
-		{
-			id: "06FFFE64A6089B56"
-			tasks: [{
-				id: "7A14F3887FE6107B"
-				item: { count: 1, id: "minecraft:iron_ingot" }
-				type: "item"
-			}]
-			x: -5.0d
-			y: -7.0d
 		}
 	]
 }

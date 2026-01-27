@@ -9,5 +9,174 @@
 	id: "1CDC52BD5092AC32"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "6A9E4C3D9B81871F"
+			tasks: [{
+				id: "4BE3E725B3164E2E"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A9E4C3D9B81871F"]
+			id: "72A682341D045E81"
+			shape: "diamond"
+			tasks: [{
+				id: "69A0888E7DA32ECD"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["72A682341D045E81"]
+			id: "552F3588CDCBFF9D"
+			shape: "diamond"
+			tasks: [
+				{
+					id: "66570086883883A5"
+					item: { count: 1, id: "justdirethings:eclipsealloy_helmet" }
+					type: "item"
+				}
+				{
+					id: "03E930A7087F4EB7"
+					item: { count: 1, id: "justdirethings:eclipsealloy_chestplate" }
+					type: "item"
+				}
+				{
+					id: "03450C7A1D4DF2AC"
+					item: { count: 1, id: "justdirethings:eclipsealloy_leggings" }
+					type: "item"
+				}
+				{
+					id: "6E0266E156A41E2F"
+					item: { count: 1, id: "justdirethings:eclipsealloy_boots" }
+					type: "item"
+				}
+				{
+					id: "0FA94C2E8FE06725"
+					item: { count: 1, id: "justdirethings:eclipsealloy_paxel" }
+					type: "item"
+				}
+				{
+					id: "4C7F0B460EAA2626"
+					item: { count: 1, id: "justdirethings:eclipsegate_wand" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["72A682341D045E81"]
+			id: "6BB4AEBF40DE85DA"
+			shape: "diamond"
+			tasks: [
+				{
+					id: "028332DC21E8EDAA"
+					item: { count: 1, id: "mekanism:mekasuit_helmet" }
+					type: "item"
+				}
+				{
+					id: "2A8D5503D4E9F6F0"
+					item: { count: 1, id: "mekanism:mekasuit_bodyarmor" }
+					type: "item"
+				}
+				{
+					id: "62C2DBC7BE2B4695"
+					item: { count: 1, id: "mekanism:mekasuit_pants" }
+					type: "item"
+				}
+				{
+					id: "6EE84445A70FD428"
+					item: { count: 1, id: "mekanism:mekasuit_boots" }
+					type: "item"
+				}
+				{
+					id: "389F3079752CC29D"
+					item: { count: 1, id: "mekanism:meka_tool" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["72A682341D045E81"]
+			id: "6637C23321FDE140"
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0C047107DCC81A15"
+					item: { count: 1, id: "extended_industrialization:nano_quantum_helmet" }
+					type: "item"
+				}
+				{
+					id: "5C5AB77EC5BDAD98"
+					item: { count: 1, id: "extended_industrialization:nano_quantum_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5522B4212097A093"
+					item: { count: 1, id: "extended_industrialization:nano_quantum_leggings" }
+					type: "item"
+				}
+				{
+					id: "49D4C2C1417C387F"
+					item: { count: 1, id: "extended_industrialization:nano_quantum_boots" }
+					type: "item"
+				}
+				{
+					id: "29134928C32399B4"
+					item: { count: 1, id: "extended_industrialization:nano_quantum_saber" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72A682341D045E81"]
+			id: "6622352B6EC9E3BD"
+			shape: "diamond"
+			tasks: [
+				{
+					id: "63D2912B97B79D92"
+					item: { count: 1, id: "advanced_ae:quantum_helmet" }
+					type: "item"
+				}
+				{
+					id: "554464DB3D9C4A40"
+					item: { count: 1, id: "advanced_ae:quantum_chestplate" }
+					type: "item"
+				}
+				{
+					id: "25E6FA8973284906"
+					item: { count: 1, id: "advanced_ae:quantum_leggings" }
+					type: "item"
+				}
+				{
+					id: "231EC95CEE2EA8A8"
+					item: { count: 1, id: "advanced_ae:quantum_boots" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6A9E4C3D9B81871F"]
+			id: "596C8B5C73AA359E"
+			shape: "diamond"
+			tasks: [{
+				id: "68658AF990E21071"
+				item: { count: 1, id: "megacells:item_storage_cell_256m" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+	]
 }
