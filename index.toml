@@ -830,7 +830,7 @@ hash = "b9f53c5b9bba6841284b8868083fdef7f1f17e6ac67deccb2984ca2b4ed37e8c"
 
 [[files]]
 file = "kubejs/server_scripts/fixes.js"
-hash = "ad1f7336dbc8f68fd43b7115b488496209c7613163664e6f6fe1b4421547aafd"
+hash = "4df8a1d6da7ab6369cbdb3db2a9044c4f601b67ad6f551289cf4f46c410c7799"
 
 [[files]]
 file = "kubejs/server_scripts/progression.js"
