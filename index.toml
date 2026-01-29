@@ -114,7 +114,7 @@ hash = "c3628f5fc73d3011689de4b82c44187563c8a2abdfdf9cdc63eab8b61f0623d8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/goals.snbt"
-hash = "4de4dd521647447d848fe6326782d010331f9641d489b71737c9592685558170"
+hash = "1443ddeb1f330ebf2b7aff8f5a62879864d3b365c58e9622c58ce5215f12329e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/hostile_neural_networks.snbt"
@@ -182,7 +182,7 @@ hash = "951cc705a818b130e9772bcc9467f1c7e818a9af11656cda33f8507ba5d2364b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stress_units.snbt"
-hash = "f73e2c85da6d7ec1ba8f42a6d3b1f1bc430b3a7b93f6ef44aa1cfb5f6c735d3f"
+hash = "aa0a640e5ac104f6380af19a5cf562defe75675d7e7717ea2334432d441f3823"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tempad.snbt"
@@ -206,7 +206,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "d461b788f193013715af522c84671ead51b2790f10e1626b61cf05faf1231cc6"
+hash = "5d50cad729350ee26824a8b782e61197d04c4d85f1bf2dc0ff755769211661bd"
 
 [[files]]
 file = "config/lmft.json"

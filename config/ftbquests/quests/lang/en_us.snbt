@@ -58,9 +58,11 @@
 		""
 		"When you have mastered all 4 mining skills you can craft a permit to unlock vein mining permanently."
 	]
+	quest.3C0F93D1339DF59D.title: "Windmill"
 	quest.4FCF3EA8080C2C89.title: "Nether"
 	quest.552F3588CDCBFF9D.title: "Eclipse Alloy Set"
 	quest.596C8B5C73AA359E.title: "Ultra Storage Capacity"
+	quest.5FFAC33459E5DF8E.title: "Reactor"
 	quest.6622352B6EC9E3BD.title: "Quantum Set"
 	quest.6637C23321FDE140.title: "Quantum Industrialization"
 	quest.6BB4AEBF40DE85DA.title: "MekaSuit \\& Tool"

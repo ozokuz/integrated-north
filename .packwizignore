@@ -9,3 +9,4 @@ TODO.md
 update.py
 pyproject.toml
 uv.lock
+scripts/

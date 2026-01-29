@@ -4,7 +4,7 @@
 	filename: "goals"
 	group: ""
 	icon: {
-		id: "petrolpark:badge/competition_winner"
+		id: "starcatcher:trophy_gold"
 	}
 	id: "1CDC52BD5092AC32"
 	order_index: 1

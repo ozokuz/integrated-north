@@ -9,5 +9,145 @@
 	id: "7421D92CFE7B136F"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "387B3530AFDFB3AB"
+			tasks: [{
+				id: "535D5CA8E93795C5"
+				item: { count: 1, id: "create:water_wheel" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "44CCB96EA642468B"
+			tasks: [{
+				id: "0F0B7C8798212033"
+				item: { count: 1, id: "create:large_water_wheel" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "4E44049D459D1357"
+			tasks: [{
+				id: "68F81EFE8FA43EE3"
+				item: { count: 1, id: "ars_creo:starbuncle_wheel" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			id: "3C0F93D1339DF59D"
+			tasks: [
+				{
+					id: "3A942DBC11FC4092"
+					item: { count: 1, id: "create:windmill_bearing" }
+					type: "item"
+				}
+				{
+					id: "2E670FA10C976E71"
+					item: { count: 1, id: "create:white_sail" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "024124D38890A533"
+			tasks: [{
+				id: "7D517FAEEC995740"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_new_age:basic_motor)item(create_new_age:advanced_motor)item(create_new_age:reinforced_motor))", "minecraft:custom_name": "\"Electric Motor\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"0506F2AC3E6ACE9D"
+				"5FFAC33459E5DF8E"
+			]
+			dependency_requirement: "one_completed"
+			id: "3D19FB2E99569598"
+			tasks: [{
+				id: "10C6858294C3A60B"
+				item: { count: 1, id: "create_new_age:stirling_engine" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			id: "0506F2AC3E6ACE9D"
+			tasks: [{
+				id: "1E4CC5E28F5B3027"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_new_age:basic_solar_heating_plate)item(create_new_age:advanced_solar_heating_plate))", "minecraft:custom_name": "\"Solar Heating Plate\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "5FFAC33459E5DF8E"
+			tasks: [
+				{
+					id: "5E2C52E47355189C"
+					item: { count: 1, id: "create_new_age:reactor_casing" }
+					type: "item"
+				}
+				{
+					id: "1170AF2150F3BC80"
+					item: { count: 1, id: "create_new_age:reactor_rod" }
+					type: "item"
+				}
+				{
+					id: "10901BE6B5E380B7"
+					item: { count: 1, id: "create_new_age:reactor_glass" }
+					type: "item"
+				}
+				{
+					id: "3271E6ECD1FE35D8"
+					item: { count: 1, id: "create_new_age:reactor_fuel_acceptor" }
+					type: "item"
+				}
+				{
+					id: "08444120387A37A3"
+					item: { count: 1, id: "create_new_age:reactor_heat_vent" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "create:steam_engine"
+			}
+			id: "72690F0CC4FFA159"
+			tasks: [
+				{
+					id: "3356B5D8C5E468BA"
+					item: { count: 1, id: "create:steam_engine" }
+					type: "item"
+				}
+				{
+					id: "42F1F22FDD34DDE7"
+					item: { count: 1, id: "create:blaze_burner" }
+					type: "item"
+				}
+				{
+					id: "43E23839AA321E49"
+					item: { count: 1, id: "create:fluid_tank" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -3.0d
+		}
+	]
 }
