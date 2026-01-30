@@ -1,5 +1,8 @@
 ServerEvents.recipes((event) => {
   event.remove({ output: "ae2:inscriber" });
+  event.remove({ type: "ae2:inscriber", output: "ae2:logic_processor" });
+  event.remove({ type: "ae2:inscriber", output: "ae2:engineering_processor" });
+  event.remove({ type: "ae2:inscriber", output: "ae2:calculation_processor" });
 
   function inscriberPress(output, input, press) {
     event.recipes.create.deploying(output, [input, press]).keepHeldItem();
@@ -43,6 +46,26 @@ ServerEvents.recipes((event) => {
           incomplete,
           Fluid.of("minecraft:water", 200),
         ]),
+      ])
+      .transitionalItem(incomplete);
+
+    event.recipes.create
+      .sequenced_assembly([Item.of(output, 4)], input, [
+        event.recipes.create.deploying(incomplete, [
+          incomplete,
+          "ae2:printed_silicon",
+        ]),
+        event.recipes.create.deploying(incomplete, [incomplete, input]),
+        event.recipes.create.deploying(incomplete, [
+          incomplete,
+          "tfmg:transistor_item",
+        ]),
+        event.recipes.create.filling(incomplete, [
+          incomplete,
+          Fluid.of("productivemetalworks:molten_redstone", 400),
+        ]),
+        event.recipes.create.deploying(incomplete, [incomplete, extra]),
+        event.recipes.create.deploying(incomplete, [incomplete, "ae2:entropy_manipulator"]).keepHeldItem(),
       ])
       .transitionalItem(incomplete);
   }

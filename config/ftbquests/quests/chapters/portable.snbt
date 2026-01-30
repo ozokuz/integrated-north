@@ -9,5 +9,214 @@
 	id: "1A2CB4F33338D2D4"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "2E3B1BBC02F0A721"
+			tasks: [{
+				id: "010C85D647F47D93"
+				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E3B1BBC02F0A721"]
+			id: "6AFF3ABE34F60582"
+			tasks: [{
+				id: "1835A0A0F2D6C0F4"
+				item: { count: 1, id: "sophisticatedbackpacks:iron_backpack" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6AFF3ABE34F60582"]
+			id: "60CBF1D26FA7A1E3"
+			tasks: [{
+				id: "48072E82287E6749"
+				item: { count: 1, id: "sophisticatedbackpacks:gold_backpack" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["60CBF1D26FA7A1E3"]
+			id: "37A7E7FBDB98D85A"
+			tasks: [{
+				id: "3BB4DC40D05C459D"
+				item: { count: 1, id: "sophisticatedbackpacks:diamond_backpack" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37A7E7FBDB98D85A"]
+			id: "77AA91C719BE69BB"
+			tasks: [{
+				id: "08E9F2C010193CE8"
+				item: { count: 1, id: "sophisticatedbackpacks:netherite_backpack" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "03E0D80B7492B10D"
+			tasks: [{
+				id: "1597FCA067A2A0ED"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:stack_upgrade_starter_tier)item(sophisticatedbackpacks:stack_upgrade_tier_1)item(sophisticatedbackpacks:stack_upgrade_tier_2)item(sophisticatedbackpacks:stack_upgrade_tier_3)item(sophisticatedbackpacks:stack_upgrade_tier_4))", "minecraft:custom_name": "\"Stack Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2E3B1BBC02F0A721"]
+			id: "2C4282AED1B543AF"
+			tasks: [{
+				id: "54312B05EF1290FC"
+				item: { count: 1, id: "sophisticatedbackpacks:upgrade_base" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "541752BFF907ECF3"
+			tasks: [{
+				id: "6EABE03BA5F5927E"
+				item: { count: 1, id: "sophisticatedbackpacks:crafting_upgrade" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "63409A4785A30364"
+			tasks: [{
+				id: "7D7C8132AF8127F4"
+				item: { count: 1, id: "sophisticatedbackpacks:stonecutter_upgrade" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "18F7D7B6A5D1BFDA"
+			tasks: [{
+				id: "58A7130BB652A882"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:void_upgrade)item(sophisticatedbackpacks:advanced_void_upgrade))", "minecraft:custom_name": "\"Void Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2E3B1BBC02F0A721"]
+			id: "4324A1836A69A103"
+			tasks: [{
+				id: "4EA98586559D8366"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:feeding_upgrade)item(sophisticatedbackpacks:advanced_feeding_upgrade))", "minecraft:custom_name": "\"Feeding Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "464BD2CFCE0F0E82"
+			tasks: [{
+				id: "0E60E77327DEB6D1"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:pickup_upgrade)item(sophisticatedbackpacks:advanced_pickup_upgrade))", "minecraft:custom_name": "\"Pickup Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "4EEC533FA6B8A2F1"
+			tasks: [{
+				id: "4F1061E61C2C2469"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:restock_upgrade)item(sophisticatedbackpacks:advanced_restock_upgrade))", "minecraft:custom_name": "\"Restock Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "70D69F53F3F9E6E0"
+			tasks: [{
+				id: "0E5A812E6ADFCB65"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:deposit_upgrade)item(sophisticatedbackpacks:advanced_deposit_upgrade))", "minecraft:custom_name": "\"Deposit Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2C4282AED1B543AF"]
+			id: "1F8E7723F6DF7B9E"
+			tasks: [{
+				id: "0F45999C85743707"
+				item: { components: { "ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:refill_upgrade)item(sophisticatedbackpacks:advanced_refill_upgrade))", "minecraft:custom_name": "\"Refill Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.0d
+		}
+		{
+			id: "24683DBDBA824938"
+			tasks: [{
+				id: "38EDAB443092E5EF"
+				item: { count: 1, id: "pocketstorage:psu_1" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24683DBDBA824938"]
+			disable_recipe_mod: false
+			id: "7938AFE8258AF76C"
+			tasks: [{
+				id: "54B69154F4F91AC5"
+				item: { count: 1, id: "pocketstorage:psu_2" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7938AFE8258AF76C"]
+			id: "3733114E3FC05B0F"
+			tasks: [{
+				id: "364DE9136C1DBE68"
+				item: { count: 1, id: "pocketstorage:psu_3" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3733114E3FC05B0F"]
+			id: "5042EB8582D98445"
+			tasks: [{
+				id: "5404F743B8BE3BF7"
+				item: { count: 1, id: "pocketstorage:psu_4" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+	]
 }

@@ -9,5 +9,58 @@
 	id: "461A07BC670488BD"
 	order_index: 1
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "50A3F03B07548041"
+			tasks: [{
+				id: "10B16279821340D7"
+				item: { count: 1, id: "createaddition:modular_accumulator" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -7.0d
+		}
+		{
+			id: "4B9A9363E5DEDD9B"
+			tasks: [
+				{
+					id: "6E28F49A6395FBB1"
+					item: { count: 1, id: "create_new_age:electrical_connector" }
+					type: "item"
+				}
+				{
+					id: "67267E8A5864DA50"
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_new_age:copper_wire)item(create_new_age:overcharged_iron_wire)item(create_new_age:overcharged_golden_wire)item(create_new_age:overcharged_diamond_wire))", "minecraft:custom_name": "\"Wire\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "create_new_age:generator_coil"
+			}
+			id: "4C69902744B6193F"
+			tasks: [
+				{
+					id: "5AEF7B69C14090ED"
+					item: { count: 1, id: "create_new_age:generator_coil" }
+					type: "item"
+				}
+				{
+					id: "515A66078B7C714E"
+					item: { count: 1, id: "create_new_age:carbon_brushes" }
+					type: "item"
+				}
+				{
+					id: "72BFD3DCC06005C3"
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_new_age:magnetite_block)item(create_new_age:redstone_magnet)item(create_new_age:layered_magnet)item(create_new_age:fluxuated_magnetite)item(create_new_age:netherite_magnet))", "minecraft:custom_name": "\"Magnet\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: -1.0d
+		}
+	]
 }

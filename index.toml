@@ -30,7 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1447015109a9fc9ba5b2c592880a2ef7dc31dbfc40f3da7fd237a7d8dfe3ef78"
+hash = "bec4a2e4b6eab5a5acdfe8f093fd25835f67d893cfb4d29431bf2b86290674c6"
 
 [[files]]
 file = "config/champions-entities.toml"
@@ -110,7 +110,7 @@ hash = "777355cadcd82954afd210cfc5bc50d8820093a63d5d23d06e5b9bdb7e54e764"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/forge_energy.snbt"
-hash = "c3628f5fc73d3011689de4b82c44187563c8a2abdfdf9cdc63eab8b61f0623d8"
+hash = "62a3a07e0ef02bc92f89ddbd37026dcf441e65017368b4c5b3424be09509fba9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/goals.snbt"
@@ -154,7 +154,7 @@ hash = "d626763f50c93baf9c467f3961f9330dfdf705eff79361748cd6f4dde3df8e91"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/portable.snbt"
-hash = "f1985cab49fbe89f373ca2bbc47f607c90ba68a784697cc17d8ffca0d599f04b"
+hash = "7e8391915aeb4cc1afab252b246d84ec1c9b2d692a608d14482e3fa12e7fde42"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/qol.snbt"
@@ -178,7 +178,7 @@ hash = "1f1dac2a9cfb21b1822c24a42312d8d00eb143efb9d0ec67412368a83e11f29b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "951cc705a818b130e9772bcc9467f1c7e818a9af11656cda33f8507ba5d2364b"
+hash = "420fac5f96d6b1e5faec8bb4ea5558221ee0fb50bcdd20ee172e0248ae3cbc95"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stress_units.snbt"
@@ -206,7 +206,7 @@ hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "5d50cad729350ee26824a8b782e61197d04c4d85f1bf2dc0ff755769211661bd"
+hash = "abc550be70513f89ac2c6fe4d597946fa1853e9e5f8b2395f71801337efc54de"
 
 [[files]]
 file = "config/lmft.json"
@@ -774,7 +774,7 @@ hash = "239873909f45d9b1bf2a73ca30dc57e04c4cb6820b7a39480b450fb59bf0b9a0"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/applied_energistics.js"
-hash = "06a55dc881954b1ca7470256752c68fef974226c22e08748281da14424f7c000"
+hash = "856e483ac28fe5c78084419bb12ea18c8e5a70725548e45a70284551b24b9b62"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/ars_nouveau.js"
@@ -830,7 +830,7 @@ hash = "b9f53c5b9bba6841284b8868083fdef7f1f17e6ac67deccb2984ca2b4ed37e8c"
 
 [[files]]
 file = "kubejs/server_scripts/fixes.js"
-hash = "4df8a1d6da7ab6369cbdb3db2a9044c4f601b67ad6f551289cf4f46c410c7799"
+hash = "2e3040cb1712064e985f11b9ea09e9fb64ed6fee29ad3dfb348fcb1ce9fa34d6"
 
 [[files]]
 file = "kubejs/server_scripts/progression.js"

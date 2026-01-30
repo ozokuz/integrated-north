@@ -9,5 +9,235 @@
 	id: "702842562F370F19"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "4628060D83936356"
+			tasks: [{
+				id: "6C938366D6898B59"
+				item: { components: { "ftbfiltersystem:filter": "item_tag(functionalstorage:drawer)", "minecraft:custom_name": "\"Drawer\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "3A1577A50C57F316"
+			tasks: [{
+				id: "7B4DC1D28B2C1A6B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:compacting_drawer)item(functionalstorage:compacting_framed_drawer))", "minecraft:custom_name": "\"Compacting Drawer\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["250187204349CB42"]
+			id: "0FFE6C45F19A04DB"
+			tasks: [{
+				id: "559378B9B8AD7FF9"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:storage_controller)item(functionalstorage:framed_storage_controller))", "minecraft:custom_name": "\"Storage Controller\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0FFE6C45F19A04DB"]
+			id: "4C7755AA4444FD85"
+			tasks: [{
+				id: "49E35094C1E010C8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:controller_extension)item(functionalstorage:framed_controller_extension))", "minecraft:custom_name": "\"Controller Access Point\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "250187204349CB42"
+			tasks: [{
+				id: "174196D9403B8111"
+				item: { count: 1, id: "functionalstorage:linking_tool" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "60BDA6B2DB8D253F"
+			tasks: [{
+				id: "66DF18138D2BE9AB"
+				item: { count: 1, id: "functionalstorage:configuration_tool" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "33A8172186E8905D"
+			tasks: [{
+				id: "7B5F269F5ACED817"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(functionalstorage:fluid_drawer)item(functionalstorage:framed_fluid_1)item(functionalstorage:framed_fluid_2)item(functionalstorage:framed_fluid_4))", "minecraft:custom_name": "\"Fluid Drawer\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["33A8172186E8905D"]
+			id: "1F8D1C7AF6ECE393"
+			tasks: [{
+				id: "2089C54D3CC74E06"
+				item: { count: 1, id: "functionalstorage:water_generator_upgrade" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["33A8172186E8905D"]
+			id: "2AD82B7546116EF5"
+			tasks: [{
+				id: "676695C6FDD6DA12"
+				item: { count: 1, id: "functionalstorage:dripping_upgrade" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "3C5F3CAFED3F739C"
+			tasks: [{
+				id: "342F10FC22490F0C"
+				item: { count: 1, id: "functionalstorage:obsidian_upgrade" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "135E2AD8BF9342BA"
+			tasks: [{
+				id: "218340593B3CD5EA"
+				item: { count: 1, id: "functionalstorage:void_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4628060D83936356"]
+			id: "7C54B7C8A4BC0609"
+			tasks: [{
+				id: "3B834D5AEBCDCE9A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(functionalstorage:copper_upgrade)item(functionalstorage:gold_upgrade)item(functionalstorage:diamond_upgrade)item(functionalstorage:netherite_upgrade))", "minecraft:custom_name": "\"Drawer Upgrade\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "39A72333DBA0F5DC"
+			tasks: [{
+				id: "27AD6A1C267A74F5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:chest)item(minecraft:barrel)item(minecraft:shulker_box))", "minecraft:custom_name": "\"Vanilla Storage\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["39A72333DBA0F5DC"]
+			id: "3FC405E8ED5208C4"
+			tasks: [{
+				id: "6BA07EB372AB9DA6"
+				item: { count: 1, id: "sophisticatedstorage:basic_tier_upgrade" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3FC405E8ED5208C4"]
+			id: "50862613090EDB52"
+			tasks: [{
+				id: "0A2A30E0A931F362"
+				item: { count: 1, id: "sophisticatedstorage:basic_to_iron_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["50862613090EDB52"]
+			id: "5924204B62514446"
+			tasks: [{
+				id: "3A6B344633629118"
+				item: { count: 1, id: "sophisticatedstorage:iron_to_gold_tier_upgrade" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5924204B62514446"]
+			id: "1583D33765543B15"
+			tasks: [{
+				id: "601C08CCEF487550"
+				item: { count: 1, id: "sophisticatedstorage:gold_to_diamond_tier_upgrade" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1583D33765543B15"]
+			id: "2F73F3F383771BE0"
+			tasks: [{
+				id: "083025FE805BCEB3"
+				item: { count: 1, id: "sophisticatedstorage:diamond_to_netherite_tier_upgrade" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3FC405E8ED5208C4"]
+			id: "7B45F753E1D3AC27"
+			tasks: [{
+				id: "73D6FD283B2BDB9A"
+				item: { count: 1, id: "sophisticatedstorage:controller" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7B45F753E1D3AC27"]
+			id: "1C9E59EFD4BB2700"
+			tasks: [{
+				id: "4CB1796A05CC3527"
+				item: { count: 1, id: "sophisticatedstorage:storage_tool" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3FC405E8ED5208C4"]
+			id: "65ED29A074E65A7D"
+			tasks: [{
+				id: "52B586557CDDA405"
+				item: { count: 1, id: "sophisticatedstorage:packing_tape" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+	]
 }
