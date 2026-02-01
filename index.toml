@@ -30,11 +30,7 @@ hash = "083e760c21ccd9dd07e299070e3b1bed6cfa29e3bbfe1af459a77f7e013b53b6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bec4a2e4b6eab5a5acdfe8f093fd25835f67d893cfb4d29431bf2b86290674c6"
-
-[[files]]
-file = "config/champions-entities.toml"
-hash = "379975c7ebe6a6579965e9e5090cd4a41edb7a7c06d300ebce3ab3a038c7ded8"
+hash = "a6a1b536303852ea5d7024496348449e26a307556ad4aa0c01e3f428cee3e1e8"
 
 [[files]]
 file = "config/create-server.toml"
@@ -746,7 +742,7 @@ hash = "52001552d8edc605f269bfa48899764292f8cc9017a2110af66171b40e8981bf"
 
 [[files]]
 file = "kubejs/client_scripts/remove_duplicates.js"
-hash = "34e50e28254f780afa4c08194721cbcbf52fdf5a4616332a491acedb99ea2aba"
+hash = "c538d2f4f8fe84ed8f049b82993a49d7e16fe7ae0a80193b8d17879c41bc0896"
 
 [[files]]
 file = "kubejs/client_scripts/rename.js"
@@ -810,7 +806,7 @@ hash = "41dccddb8d948caeead6ec5051c4bf85c8a738f05c238909ac52466c09897501"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/powah.js"
-hash = "9baa097976eea9aaf5ec39641942d04a757f0f2ce8a5ef376089df3d039f30fb"
+hash = "0741f211bf35dfcc8ed26eaef668886f1d9db456bbfe2ab10ab39be53dadc59d"
 
 [[files]]
 file = "kubejs/server_scripts/balancing/purge.js"
@@ -842,7 +838,11 @@ hash = "f8e08f6eea6eb70605316de95f41ac4211a13b2500c1905f2ef2993c883c0e4b"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/remove_duplicates.js"
-hash = "1fe7fb1cd41de06af95050af1a2aca8e8f8dbaa1e80ed54d7452195ff665a8ff"
+hash = "81b9b2d93ec43bef672481de2b32a4acbace12662933f678b355e3d38bfda808"
+
+[[files]]
+file = "kubejs/server_scripts/tweaks/resource_generation.js"
+hash = "e4be5d215c0217fe3ce88093e75e058a501a530d829cda56001f761c2b5e91f8"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/stack_drill.js"

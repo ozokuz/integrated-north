@@ -116,7 +116,6 @@
   "farmers-delight.pw.toml": "both",
   "fastfurnace.pw.toml": "both",
   "fastworkbench.pw.toml": "both",
-  "findme.pw.toml": "both",
   "ftb-library-forge.pw.toml": "both",
   "ftb-quests-forge.pw.toml": "both",
   "ftb-teams-forge.pw.toml": "both",
@@ -149,7 +148,6 @@
   "irons-spells-n-spellbooks-dynamic-skill-trees.pw.toml": "both",
   "item-highlighter.pw.toml": "client",
   "jade-addons-forge.pw.toml": "both",
-  "jamlib.pw.toml": "both",
   "just-enough-archaeology.pw.toml": "both",
   "keybind-bundles.pw.toml": "client",
   "keybindspurger.pw.toml": "client",
@@ -253,7 +251,6 @@
   "underground-bunkers.pw.toml": "both",
   "universal-sawmill.pw.toml": "both",
   "useful-slime.pw.toml": "both",
-  "utility-belt.pw.toml": "both",
   "variants-and-ventures.pw.toml": "both",
   "villages-and-pillages.pw.toml": "both",
   "vintage-animations.pw.toml": "client",
@@ -380,5 +377,6 @@
   "xaeros-maps-x-waystones.pw.toml": "both",
   "yacl.pw.toml": "both",
   "create.pw.toml": "both",
-  "ftb-xmod-compat.pw.toml": "both"
+  "ftb-xmod-compat.pw.toml": "both",
+  "sophisticated-item-actions.pw.toml": "both"
 }
