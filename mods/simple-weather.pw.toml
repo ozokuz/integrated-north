@@ -1,15 +1,13 @@
-filename = 'simple_weather-1.0.13.jar'
-name = 'Simple Weather'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Simple Weather"
+filename = "simple_weather-1.0.13-hotfix.jar"
+side = "client"
 
 [download]
-hash = 'dd3fef0325276382667681955a583d14a345939d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "45ee8e8bb49c599bb3d7db7cdf6c91f90d13bb0c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 5984086
+file-id = 7436830
 project-id = 983390

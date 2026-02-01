@@ -1,17 +1,13 @@
-filename = 'easy-villagers-neoforge-1.21.1-1.1.40.jar'
-name = 'Easy Villagers'
+name = "Easy Villagers"
+filename = "easy-villagers-neoforge-1.21.1-1.1.41.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'neoforge-1.21.1-1.1.40'
 
 [download]
-hash = 'd382a7055c174bf6c92f47e868565db8da0bcfc1e6cc5318d413e3fab8d3df1e3eb7d47807ed40ea55483730734746b624dc4170c932210685ed97cc4bcb2066'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Kaov2qgi/versions/5MZV66V9/easy-villagers-neoforge-1.21.1-1.1.40.jar'
+url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/I5zwUj7m/easy-villagers-neoforge-1.21.1-1.1.41.jar"
+hash-format = "sha512"
+hash = "b52424de73543e5b18f0c6af30e8293e6395150ae1cdba88e9e6f4a302ca6786ef00deb8cf4fa4c1d9c796c1e32ab77ad0bcb62cc74a4eaddbfa80c4abf4d018"
 
+[update]
 [update.modrinth]
-mod-id = 'Kaov2qgi'
-version = '5MZV66V9'
+mod-id = "Kaov2qgi"
+version = "I5zwUj7m"

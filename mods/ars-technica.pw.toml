@@ -1,15 +1,13 @@
-filename = 'ars_technica-1.21.1-2.5.0.jar'
-name = 'Ars Technica'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Ars Technica"
+filename = "ars_technica-1.21.1-2.6.1.jar"
+side = "both"
 
 [download]
-hash = '36e764f2a6f90934482d43db940e57865fabc972'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "33e0952fe7d5ff6dd8ecac532ffbf9cb0181718c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 7395581
+file-id = 7517735
 project-id = 1096161

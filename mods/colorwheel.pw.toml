@@ -1,16 +1,13 @@
-filename = 'colorwheel-neoforge-1.2.0+mc1.21.1.jar'
-name = 'Colorwheel'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Colorwheel"
+filename = "colorwheel-neoforge-1.2.1+mc1.21.1.jar"
+side = "client"
 
 [download]
-hash = '51343c53faeab0248c58cbd7a1547f26f8d83f50e7ce93a656ed60e21de960ab31ff6ec7589377b01f645edd97fba47591dc448ab5f75a65a588ff9e28621e2c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/BzHgFoGz/versions/ddDj2cfQ/colorwheel-neoforge-1.2.0%2Bmc1.21.1.jar'
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/S1XGSWwF/colorwheel-neoforge-1.2.1%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "880158000059cfc686635945c84457807169ba1e25dde0afe8a11e63ee4f1a25a376b53af912efbe8b241e05569ecacc7f0fd5a442f673241f75ad89707499f0"
 
+[update]
 [update.modrinth]
-mod-id = 'BzHgFoGz'
-version = 'ddDj2cfQ'
+mod-id = "BzHgFoGz"
+version = "S1XGSWwF"

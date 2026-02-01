@@ -1,16 +1,13 @@
-filename = 'unbreakables-neoforge-1.21.1-21.1.13.jar'
-name = 'Unbreakables'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Unbreakables"
+filename = "unbreakables-neoforge-1.21.1-21.1.14.jar"
+side = "both"
 
 [download]
-hash = '8d7c0f751ae2c22b1c533bbe68ae1e8a1021055904f604839dbd174f8ba07aaf5302882ce1191411591ecde89083e1abe3cf7857a948b0c679f3d9cbf3253153'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XjDZ0DwA/versions/3oIf2CNP/unbreakables-neoforge-1.21.1-21.1.13.jar'
+url = "https://cdn.modrinth.com/data/XjDZ0DwA/versions/JghAfhRT/unbreakables-neoforge-1.21.1-21.1.14.jar"
+hash-format = "sha512"
+hash = "e8a1859d1a2942eb2cafca615c50a09ea958aec6b853b4be0873723c0bb77dfe7ea1a4aa6c74593aa5c11b6707429eaf409465d513a9986879a52a60c8cdcafc"
 
+[update]
 [update.modrinth]
-mod-id = 'XjDZ0DwA'
-version = '3oIf2CNP'
+mod-id = "XjDZ0DwA"
+version = "JghAfhRT"

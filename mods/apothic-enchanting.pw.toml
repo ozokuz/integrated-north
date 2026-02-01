@@ -1,15 +1,13 @@
-filename = 'ApothicEnchanting-1.21.1-1.5.0.jar'
-name = 'Apothic Enchanting'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Apothic Enchanting"
+filename = "ApothicEnchanting-1.21.1-1.5.1.jar"
+side = "both"
 
 [download]
-hash = '9ad1e1cbf2ee524d7edca1bcdece6deecf59ddc7'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "423b651da2c898b79c465d5d73a2b305ea796bef"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 6926290
+file-id = 7444883
 project-id = 1063926

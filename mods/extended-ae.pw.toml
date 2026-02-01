@@ -1,16 +1,13 @@
-filename = 'ExtendedAE-1.21-2.2.27-neoforge.jar'
-name = 'Extended AE'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Extended AE"
+filename = "ExtendedAE-1.21-2.2.28-neoforge.jar"
+side = "both"
 
 [download]
-hash = '66b54025833ed5a85ba830e5d93813812f7848bd30a27f8e2fccd78a0bd632c994886732ba8c457928426f2b382609c266d448009cf120ecba26f8f13c5b491c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/JiOqfoFM/versions/mHal3Mkb/ExtendedAE-1.21-2.2.27-neoforge.jar'
+url = "https://cdn.modrinth.com/data/JiOqfoFM/versions/PouYVFxW/ExtendedAE-1.21-2.2.28-neoforge.jar"
+hash-format = "sha512"
+hash = "79c5e9315cd6b891b574d30402e4b1c3b8ef88f781eb5cf8fd63f2d186deae13c1ac1b7724952ef421ca5308adf0e77576e2216bdba405f1016075420506063c"
 
+[update]
 [update.modrinth]
-mod-id = 'JiOqfoFM'
-version = 'mHal3Mkb'
+mod-id = "JiOqfoFM"
+version = "PouYVFxW"

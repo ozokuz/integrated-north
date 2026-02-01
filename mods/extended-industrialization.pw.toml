@@ -1,16 +1,13 @@
-filename = 'extended-industrialization-1.15.25-1.21.1.jar'
-name = 'Extended Industrialization'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Extended Industrialization"
+filename = "extended-industrialization-1.15.26-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'afee1e9100627d932fd93be5f361b994ed078335fa5f3f0e5f415d702cf71ada76d5014a07ae219cf128c54d295dc100958a36b3366694c309e5fc5021e385d7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CCM0U9YU/versions/v23vHcKs/extended-industrialization-1.15.25-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/CCM0U9YU/versions/BvfisMlm/extended-industrialization-1.15.26-1.21.1.jar"
+hash-format = "sha512"
+hash = "83ca6a24f8b3cbdd345f45307787fcee44babda24480f0abc7a2dbcb61d434c50ab9e9614203030d623bbf1242ced73be6480515d49b2457f5a4e150f99119fc"
 
+[update]
 [update.modrinth]
-mod-id = 'CCM0U9YU'
-version = 'v23vHcKs'
+mod-id = "CCM0U9YU"
+version = "BvfisMlm"

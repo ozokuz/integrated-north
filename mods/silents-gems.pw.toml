@@ -1,16 +1,13 @@
-filename = 'silentgems-1.21.1-neoforge-5.1.2.1.jar'
 name = "Silent's Gems"
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'silentgems-1.21.1-neoforge-5.1.2.1.jar'
+filename = "silentgems-1.21.1-neoforge-5.1.3.jar"
+side = "both"
 
 [download]
-hash = '8fca815695a969398d29e0d1da36d8db5ffa04bd'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
+hash-format = "sha1"
+hash = "a296507e45f2a71cfc1e6cfcc6692340c4c4d913"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
-file-id = 6973922
+file-id = 7512691
 project-id = 220311

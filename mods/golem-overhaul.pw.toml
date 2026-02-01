@@ -1,16 +1,13 @@
-filename = 'golemoverhaul-neoforge-1.21.1-1.0.3.jar'
-name = 'Golem Overhaul'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Golem Overhaul"
+filename = "golemoverhaul-neoforge-1.21.1-1.1.0.jar"
+side = "both"
 
 [download]
-hash = '65ffb076a5848e367c81bc8817bfa114cc6d93799c57823a9d5b96b2e1bf0d66442344c698f4b7103a555dddd6ac48284f902a54e2f5b00e14117bae3f4a32d7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qEYs2G9A/versions/wlxd41bD/golemoverhaul-neoforge-1.21.1-1.0.3.jar'
+url = "https://cdn.modrinth.com/data/qEYs2G9A/versions/lRRw1dZc/golemoverhaul-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "dae0c7b9ed35bd9c3356dd78505efd080054e5a2fe74117bdbb150ffb94eacd4ecbb02cda80f4c29070db375c09d73fb38bbaf3a8b102bbea6727f6d6a2d851f"
 
+[update]
 [update.modrinth]
-mod-id = 'qEYs2G9A'
-version = 'wlxd41bD'
+mod-id = "qEYs2G9A"
+version = "lRRw1dZc"
