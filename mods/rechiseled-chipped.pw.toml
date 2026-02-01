@@ -1,16 +1,13 @@
-filename = 'rechiseled_chipped-1.4-1.21.1.jar'
-name = 'Rechiseled: Chipped'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Rechiseled: Chipped"
+filename = "rechiseled_chipped-2.0-1.21.1.jar"
+side = "both"
 
 [download]
-hash = 'd679dc2664a1043cf42a382a1861303f838bc9461fb0a15fcbcdc7c8e789c2efa3294e82c355104ed7b9acf393be2cdfc9e435a0c75cce13f374899179ec550f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ryYcxeeA/versions/4Camklbj/rechiseled_chipped-1.4-1.21.1.jar'
+url = "https://cdn.modrinth.com/data/ryYcxeeA/versions/UEdISMbk/rechiseled_chipped-2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "4cd04802d016f1751e5388f878954ad278a3f453e54b09354efc306ded7bbd99002f3db88fcf470d57c5e918e1486426a9014e7c9ed99ff4187276567615d4d0"
 
+[update]
 [update.modrinth]
-mod-id = 'ryYcxeeA'
-version = '4Camklbj'
+mod-id = "ryYcxeeA"
+version = "UEdISMbk"

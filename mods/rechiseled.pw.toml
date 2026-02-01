@@ -1,16 +1,13 @@
-filename = 'rechiseled-1.1.6a-neoforge-mc1.21.jar'
-name = 'Rechiseled'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Rechiseled"
+filename = "rechiseled-1.2.1-neoforge-mc1.21.jar"
+side = "both"
 
 [download]
-hash = '522c870ce447eed0ffe269805f5bd3d776a960249f864a49ba3f203bff2d2f353cc62cd79978fd9a352d68b312e0f02f918d53b3f66869c80c9c9af311e5b534'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/B0g2vT6l/versions/UZPjD9WH/rechiseled-1.1.6a-neoforge-mc1.21.jar'
+url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/L3VzIZ2O/rechiseled-1.2.1-neoforge-mc1.21.jar"
+hash-format = "sha512"
+hash = "b2896b9c92918186dbed1eee5dcdbbadd7b3ed7a163ca097771313937f7a442ffbe16f2d741dce30e6a6b278e504ba660ec55d2d7bcee331ed09bc76092af170"
 
+[update]
 [update.modrinth]
-mod-id = 'B0g2vT6l'
-version = 'UZPjD9WH'
+mod-id = "B0g2vT6l"
+version = "L3VzIZ2O"
