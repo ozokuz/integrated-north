@@ -1,0 +1,13 @@
+name = "Sophisticated Item Actions"
+filename = "sophisticateditemactions-1.21.1-0.3.3.78.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ba711e014d3de601cf3f4e5e9224b629b286f16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7547985
+project-id = 1419142

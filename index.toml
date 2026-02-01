@@ -1622,11 +1622,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/findme.pw.toml"
-hash = "d030466307665547724fa30e5342efcf3f4944255524d2889d1236be781af608"
-metafile = true
-
-[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "9cb8d355c77067b00a96d96db398f60db62a6ee238dabff45ade33dd8d9f9e3b"
 metafile = true
@@ -2428,6 +2423,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9f52eb8154d0309ad03f3e7ee4730ddc325938b64edd018a0f0633d3b62197c1"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-item-actions.pw.toml"
+hash = "ac79a16a6628936f7a3d059d183ac1c08b0ca39a167a42d38c4e275812fbdff2"
 metafile = true
 
 [[files]]
