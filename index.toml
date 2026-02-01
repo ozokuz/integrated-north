@@ -1827,11 +1827,6 @@ hash = "35554552c491946ca44451673481d78c64dbbf81dc61dc6747eef4fe975668d8"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-hash = "01b6009550ea53d1dfc293c2212bf421d3adeefa060918aaf25c8874ec79e365"
-metafile = true
-
-[[files]]
 file = "mods/just-dire-things.pw.toml"
 hash = "cc5ea043b1ecc8965b83473d65cb982574080fa51da0c260b491989f5b45b156"
 metafile = true
@@ -2618,11 +2613,6 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "19836821c97e4b237252d7c733a92b893b7164ca273edc6d432e425a4ea147f2"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "49e8e0288302135d7c13758266b1c55573a42e60666ed0c83b67b8c50a32c228"
 metafile = true
 
 [[files]]

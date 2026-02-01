@@ -4,6 +4,7 @@ ServerEvents.recipes((event) => {
     "createages:andesite_machine",
     "createages:copper_mechanism",
     "createages:copper_machine",
+    "createages:rubber",
     "create:railway_casing",
     "create:precision_mechanism",
     "createages:brass_machine",
@@ -59,6 +60,11 @@ ServerEvents.recipes((event) => {
       )
       .transitionalItem(transitionalItem);
   }
+
+  event.recipes.create.mixing(
+    ["createages:rubber"],
+    [Item.of("minecraft:kelp", 8), Fluid.of("minecraft:water", 250)],
+  );
 
   mechanism(
     "createages:andesite_mechanism",
