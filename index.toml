@@ -842,7 +842,7 @@ hash = "81b9b2d93ec43bef672481de2b32a4acbace12662933f678b355e3d38bfda808"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/resource_generation.js"
-hash = "e4be5d215c0217fe3ce88093e75e058a501a530d829cda56001f761c2b5e91f8"
+hash = "cfbec74a88057ffc80767b432db2e964400a9135fb1a45c2e94fc5386dab0aab"
 
 [[files]]
 file = "kubejs/server_scripts/tweaks/stack_drill.js"

@@ -1,4 +1,17 @@
 ServerEvents.recipes((event) => {
+  event.remove({ id: "create:crushing/tuff" });
+  event.remove({ id: "create:crushing/tuff_recycling" });
+  event.remove({ id: "createaddition:crushing/tuff_recycling" });
+
+  event.recipes.create.compacting(
+    ["minecraft:tuff"],
+    [
+      "minecraft:cobblestone",
+      "minecraft:cobbled_deepslate",
+      Fluid.of("minecraft:lava", 100),
+    ],
+  );
+
   event.recipes.create.compacting(
     ["create:asurine"],
     [
@@ -7,6 +20,7 @@ ServerEvents.recipes((event) => {
       Fluid.of("minecraft:lava", 100),
     ],
   );
+
   event.recipes.create.compacting(
     ["minecraft:coal_block"],
     [
