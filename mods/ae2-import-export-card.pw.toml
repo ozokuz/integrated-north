@@ -1,16 +1,13 @@
-filename = 'ae2importexportcard-1.21.1-1.4.1.jar'
-name = 'AE2 Import Export Card'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "AE2 Import Export Card"
+filename = "ae2importexportcard-1.21.1-1.4.2.jar"
+side = "both"
 
 [download]
-hash = '71c52ac18b43b3ab12f95c3b0fa426ad675db5b5cbf384e129863be9b8e702bcd3227587d742ca7eb7ebacdd38790a932294bb8c7c39e315a525be3fdbb2f724'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/qelfSMnn/versions/IR5huwKg/ae2importexportcard-1.21.1-1.4.1.jar'
+url = "https://cdn.modrinth.com/data/qelfSMnn/versions/amUTlQHY/ae2importexportcard-1.21.1-1.4.2.jar"
+hash-format = "sha512"
+hash = "46a80cea71814e9969f90656d220805a058f6127029d6db86745da4b8212479ca629b9c2cdf4274a57b562a5ff3548fbde4b225408fe60ed9fdec9bcbad96fd7"
 
+[update]
 [update.modrinth]
-mod-id = 'qelfSMnn'
-version = 'IR5huwKg'
+mod-id = "qelfSMnn"
+version = "amUTlQHY"
