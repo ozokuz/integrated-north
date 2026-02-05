@@ -25,6 +25,8 @@ ServerEvents.recipes((event) => {
     event.remove({ output: toRemove });
   });
 
+  event.remove({ id: "productivemetalworks:alloying/molten_steel" });
+
   function casing(endProduct, baseBlock, appliedItem) {
     event.recipes.create.item_application(endProduct, [baseBlock, appliedItem]);
   }

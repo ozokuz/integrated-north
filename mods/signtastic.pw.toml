@@ -1,0 +1,13 @@
+name = "SignTastic"
+filename = "signtastic-1.21-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "455df0b8d07eaa8f8ffd6d3e1808b621a2126488"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5830686
+project-id = 518228

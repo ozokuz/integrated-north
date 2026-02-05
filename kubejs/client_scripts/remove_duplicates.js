@@ -18,9 +18,6 @@ RecipeViewerEvents.removeEntries("item", (event) => {
     "justdirethings:pocket_generator",
     "mekanismgenerators:heat_generator",
     "mekanismgenerators:wind_generator",
-    "mekanismgenerators:advanced_solar_generator",
-    "mekanismgenerators:solar_generator",
-    "mekanismgenerators:solar_panel",
     "mekanismgenerators:module_solar_recharging_unit",
     "mekanismgenerators:module_geothermal_generator_unit",
   ];

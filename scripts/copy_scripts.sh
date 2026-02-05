@@ -1,7 +1,9 @@
 #/usr/bin/env bash
 
-rm -r "$HOME/.local/share/PrismLauncher/instances/Integrated North Dev/minecraft/kubejs/server_scripts"
-rm -r "$HOME/.local/share/PrismLauncher/instances/Integrated North Dev/minecraft/kubejs/client_scripts"
-cp -r kubejs/server_scripts/ "$HOME/.local/share/PrismLauncher/instances/Integrated North Dev/minecraft/kubejs/"
-cp -r kubejs/client_scripts/ "$HOME/.local/share/PrismLauncher/instances/Integrated North Dev/minecraft/kubejs/"
+INSTANCE_FOLDER="$HOME/.local/share/PrismLauncher/instances/Integrated North Dev/minecraft"
+
+for folder in server_scripts client_scripts startup_scripts; do
+  rm -r "./kubejs/$folder"
+  cp -r "$INSTANCE_FOLDER/kubejs/$folder" ./kubejs/
+done
 
