@@ -21,7 +21,7 @@ ServerEvents.recipes((event) => {
     },
   );
 
-  event.shaped("mekanismgenerators:solar_generator", ["SSS", "IPI", "HEH"], {
+  event.shaped("mekanismgenerators:solar_generator", ["SSS", "IPI", "PEP"], {
     S: "mekanismgenerators:solar_panel",
     I: "mekanism:alloy_infused",
     P: "#c:plates/steel",

@@ -2,6 +2,7 @@ ServerEvents.recipes((event) => {
   event.remove({ id: "create:crushing/tuff" });
   event.remove({ id: "create:crushing/tuff_recycling" });
   event.remove({ id: "createaddition:crushing/tuff_recycling" });
+  event.remove({ id: "advanced_ae:quartzcrystal" });
 
   event.recipes.create.compacting(
     ["minecraft:tuff"],

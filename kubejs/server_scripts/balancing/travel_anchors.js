@@ -8,10 +8,10 @@ ServerEvents.recipes((event) => {
     event.remove({ output: toRemove });
   });
 
-  event.shaped("travelanchors:travel_anchor", ["E", "Z"], {
-    E: "#c:ender_pearls",
-    Z: "createages:zinc_machine",
-  });
+  event.shapeless("travelanchors:travel_anchor", [
+    "#c:ender_pearls",
+    "createages:zinc_machine",
+  ]);
 
   event.shaped("travelanchors:travel_staff", ["  C", " S ", "S  "], {
     C: "justdirethings:celestigem",

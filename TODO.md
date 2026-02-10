@@ -3,10 +3,6 @@
 ## Balancing
 
 - Just Dire Things Blocks
-- Mekanism
-  - Solar Panels
-  - Upgrades
-- Reaction Chamber
 
 ## Shop
 
